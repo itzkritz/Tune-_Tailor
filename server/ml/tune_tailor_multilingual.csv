@@ -1,0 +1,3001 @@
+text_input,language,sentiment_score,target_genre
+muy alegre,es,0.899,Salsa
+muy radiante,es,0.962,Salsa
+Mood: detached,en,0.5,Funk
+bahut nirash,hi,0.077,Bollywood Sad
+Main bechain hoon lekin mujhe anand gaane sunne hain,hi,0.875,Bollywood Dance
+Mood: mast,hi,0.8,Bollywood Dance
+Mood: harto,es,0.2,Flamenco
+muy alegre,es,0.907,Reggaeton
+muy frustrado,es,0.147,Flamenco
+Mood: tanha,hi,0.2,Old Classics
+bahut thaka,hi,0.094,Old Classics
+muy triste,es,0.126,Latin Rock
+Mood: entusiasmado,es,0.8,Salsa
+Mood: triste,es,0.2,Flamenco
+really vibrant,en,0.876,EDM
+Main nirash hoon par mujhe khush gaane sunne hain,hi,0.778,Sufi
+really radiant,en,0.874,EDM
+bahut mast,hi,0.963,Bhangra
+muy agotado,es,0.037,Flamenco
+really blessed,en,0.929,Techno
+I am feeling empty yet I want blessed music,en,0.769,Funk
+bahut dukh,hi,0.048,Bollywood Sad
+muy deprimido,es,0.082,Flamenco
+really hyped,en,0.912,Techno
+Mood: dukh,hi,0.2,Old Classics
+Me siento solo sin embargo quiero música feliz,es,0.883,Reggaeton
+bahut tanha,hi,0.107,Old Classics
+Mood: saamanay,hi,0.5,Sufi
+Me siento dolido pero quiero música entusiasmado,es,0.809,Salsa
+I am feeling weary but I want blessed music,en,0.774,Pop
+Mood: mellow,en,0.5,Pop
+bahut thaka,hi,0.034,Bollywood Sad
+Mood: defeated,en,0.2,Emo
+Mood: zindadil,hi,0.8,Bhangra
+Mood: detached,en,0.5,Pop
+Mood: genial,es,0.8,Salsa
+muy enojado,es,0.102,Flamenco
+Me siento agotado sin embargo quiero música increíble,es,0.827,Salsa
+Me siento agotado sin embargo quiero música emocionado,es,0.919,Reggaeton
+Mood: alegre,es,0.8,Reggaeton
+Mood: shant,hi,0.5,Sufi
+muy feliz,es,0.949,Salsa
+Me siento enojado aunque quiero música emocionado,es,0.95,Reggaeton
+Me siento dolido pero quiero música emocionado,es,0.839,Salsa
+Mood: increíble,es,0.8,Salsa
+Main pareshan hoon par mujhe anand gaane sunne hain,hi,0.785,Indie-Pop
+Mood: agotado,es,0.2,Flamenco
+really euphoric,en,0.977,Techno
+Mood: deprimido,es,0.2,Latin Rock
+muy frustrado,es,0.136,Flamenco
+Mood: empty,en,0.2,Emo
+bahut anand,hi,0.924,Bollywood Dance
+Mood: mellow,en,0.5,Pop
+Mood: detached,en,0.5,Pop
+really defeated,en,0.034,Emo
+Mood: anand,hi,0.8,Bollywood Dance
+I am feeling defeated yet I want euphoric music,en,0.904,Techno
+Mood: detached,en,0.5,Funk
+Mood: thaka,hi,0.2,Old Classics
+Mood: entusiasmado,es,0.8,Reggaeton
+Mood: triste,es,0.2,Latin Rock
+Mood: pareshan,hi,0.2,Bollywood Sad
+Mood: gloomy,en,0.2,Emo
+Mood: detached,en,0.5,Funk
+Mood: radiante,es,0.8,Reggaeton
+Main udaas hoon magar mujhe utsahit gaane sunne hain,hi,0.931,Bollywood Dance
+Mood: mast,hi,0.8,Bollywood Dance
+Mood: khamosh,hi,0.5,Indie-Pop
+Mood: shant,hi,0.5,Indie-Pop
+Mood: mast,hi,0.8,Bhangra
+bahut utsahit,hi,0.943,Bhangra
+Mood: khush,hi,0.8,Bhangra
+Main dukh hoon par mujhe shandaar gaane sunne hain,hi,0.849,Bollywood Dance
+Mood: utsahit,hi,0.8,Bhangra
+I am feeling miserable still I want hyped music,en,0.801,Techno
+Main nirash hoon lekin mujhe khush gaane sunne hain,hi,0.782,Indie-Pop
+Mood: thaka,hi,0.2,Old Classics
+Mood: gloomy,en,0.2,Emo
+Mood: dolido,es,0.2,Flamenco
+Mood: ordinary,en,0.5,Pop
+Mood: tranquilo,es,0.5,Merengue
+really gloomy,en,0.117,Emo
+Me siento agotado aunque quiero música genial,es,0.948,Reggaeton
+Me siento harto pero quiero música entusiasmado,es,0.925,Reggaeton
+really gloomy,en,0.036,Grunge
+really unstoppable,en,0.881,Techno
+Me siento dolido sin embargo quiero música entusiasmado,es,0.924,Reggaeton
+Mood: dukh,hi,0.2,Bollywood Sad
+Me siento harto sin embargo quiero música radiante,es,0.928,Reggaeton
+really hyped,en,0.878,Techno
+muy deprimido,es,0.066,Latin Rock
+muy harto,es,0.08,Latin Rock
+Mood: thik-thak,hi,0.5,Sufi
+really euphoric,en,0.861,EDM
+really miserable,en,0.052,Emo
+bahut anand,hi,0.914,Bollywood Dance
+Main bechain hoon magar mujhe zindadil gaane sunne hain,hi,0.929,Bhangra
+Mood: triste,es,0.2,Flamenco
+Main pareshan hoon phir bhi mujhe khushi gaane sunne hain,hi,0.876,Bollywood Dance
+bahut nirash,hi,0.067,Bollywood Sad
+Main dukhy hoon magar mujhe shandaar gaane sunne hain,hi,0.896,Bollywood Dance
+Mood: emocionado,es,0.8,Salsa
+I am feeling gloomy however I want gleeful music,en,0.771,Pop
+muy genial,es,0.978,Reggaeton
+Mood: radiant,en,0.8,Techno
+Me siento frustrado sin embargo quiero música emocionado,es,0.856,Reggaeton
+Mood: stable,en,0.5,Funk
+really blessed,en,0.868,Techno
+I am feeling devastated but I want euphoric music,en,0.901,EDM
+Mood: composed,en,0.5,Funk
+Mood: zindadil,hi,0.8,Bollywood Dance
+I am feeling weary but I want vibrant music,en,0.792,Pop
+I am feeling miserable however I want hyped music,en,0.896,EDM
+bahut anand,hi,0.974,Bollywood Dance
+Mood: solo,es,0.2,Flamenco
+Mood: saamanay,hi,0.5,Indie-Pop
+Main pareshan hoon phir bhi mujhe kamal gaane sunne hain,hi,0.908,Bollywood Dance
+Mood: chilled,en,0.5,Pop
+Mood: normal,es,0.5,Latin Pop
+bahut tanha,hi,0.119,Bollywood Sad
+Mood: ecstatic,en,0.8,EDM
+Main pareshan hoon par mujhe khush gaane sunne hain,hi,0.901,Bollywood Dance
+Me siento triste aún así quiero música radiante,es,0.756,Latin Pop
+I am feeling devastated however I want blessed music,en,0.769,Funk
+Me siento solo sin embargo quiero música alegre,es,0.932,Salsa
+I am feeling weary still I want unstoppable music,en,0.799,Pop
+Me siento solo sin embargo quiero música increíble,es,0.774,Merengue
+Mood: nirash,hi,0.2,Bollywood Sad
+Mood: calmado,es,0.5,Merengue
+bahut shandaar,hi,0.922,Bhangra
+Mood: dukh,hi,0.2,Old Classics
+really radiant,en,0.931,Techno
+really gleeful,en,0.985,EDM
+Mood: frustrado,es,0.2,Flamenco
+I am feeling miserable still I want hyped music,en,0.901,EDM
+bahut udaas,hi,0.02,Bollywood Sad
+Me siento harto sin embargo quiero música animado,es,0.927,Reggaeton
+muy feliz,es,0.979,Salsa
+Mood: fine,en,0.5,Pop
+Mood: devastated,en,0.2,Emo
+I am feeling defeated still I want hyped music,en,0.894,EDM
+Mood: tranquilo,es,0.5,Merengue
+I am feeling weary still I want radiant music,en,0.821,Techno
+Mood: mast,hi,0.8,Bhangra
+really miserable,en,0.078,Grunge
+I am feeling gloomy yet I want vibrant music,en,0.807,EDM
+Main pareshan hoon par mujhe shandaar gaane sunne hain,hi,0.761,Sufi
+Mood: devastated,en,0.2,Grunge
+Main thaka hoon par mujhe zindadil gaane sunne hain,hi,0.863,Bollywood Dance
+Mood: increíble,es,0.8,Reggaeton
+really heartbroken,en,0.092,Grunge
+Me siento dolido sin embargo quiero música genial,es,0.905,Salsa
+muy genial,es,0.868,Salsa
+muy enojado,es,0.084,Flamenco
+really shattered,en,0.133,Emo
+Main tanha hoon par mujhe shandaar gaane sunne hain,hi,0.899,Bollywood Dance
+I am feeling miserable still I want gleeful music,en,0.895,EDM
+really ecstatic,en,0.867,EDM
+Mood: mellow,en,0.5,Pop
+Mood: anand,hi,0.8,Bollywood Dance
+bahut dukhy,hi,0.013,Old Classics
+Mood: miserable,en,0.2,Emo
+muy deprimido,es,0.07,Flamenco
+Mood: dukh,hi,0.2,Bollywood Sad
+Mood: anand,hi,0.8,Bollywood Dance
+muy radiante,es,0.873,Reggaeton
+Me siento frustrado sin embargo quiero música emocionado,es,0.875,Reggaeton
+Main dukhy hoon magar mujhe kamal gaane sunne hain,hi,0.823,Bhangra
+Mood: feliz,es,0.8,Reggaeton
+muy radiante,es,0.965,Salsa
+I am feeling shattered yet I want gleeful music,en,0.792,Pop
+really weary,en,0.018,Emo
+Mood: devastated,en,0.2,Grunge
+Mood: khush,hi,0.8,Bollywood Dance
+bahut thaka,hi,0.049,Bollywood Sad
+Me siento dolido aunque quiero música increíble,es,0.916,Salsa
+Mood: entusiasmado,es,0.8,Reggaeton
+Me siento solo sin embargo quiero música increíble,es,0.784,Merengue
+bahut nirash,hi,0.052,Old Classics
+Mood: mellow,en,0.5,Pop
+Mood: thaka,hi,0.2,Old Classics
+Mood: equilibrado,es,0.5,Latin Pop
+Mood: increíble,es,0.8,Reggaeton
+Main tanha hoon lekin mujhe mast gaane sunne hain,hi,0.927,Bollywood Dance
+Mood: stable,en,0.5,Funk
+bahut khush,hi,0.947,Bhangra
+Mood: hyped,en,0.8,Techno
+bahut khush,hi,0.901,Bhangra
+really defeated,en,0.074,Emo
+I am feeling weary still I want euphoric music,en,0.838,Techno
+Me siento solo sin embargo quiero música alegre,es,0.832,Salsa
+Mood: ecstatic,en,0.8,Techno
+I am feeling devastated but I want blessed music,en,0.904,Techno
+Mood: feliz,es,0.8,Salsa
+Mood: equilibrado,es,0.5,Merengue
+Main udaas hoon par mujhe mast gaane sunne hain,hi,0.864,Bollywood Dance
+bahut tanha,hi,0.039,Bollywood Sad
+Mood: shattered,en,0.2,Grunge
+really gleeful,en,0.966,EDM
+Mood: increíble,es,0.8,Salsa
+Main pareshan hoon phir bhi mujhe mast gaane sunne hain,hi,0.797,Sufi
+muy dolido,es,0.095,Flamenco
+bahut dukhy,hi,0.102,Old Classics
+Mood: miserable,en,0.2,Grunge
+Mood: nirash,hi,0.2,Old Classics
+I am feeling weary yet I want unstoppable music,en,0.884,EDM
+Mood: thaka,hi,0.2,Old Classics
+Mood: genial,es,0.8,Reggaeton
+Mood: feliz,es,0.8,Salsa
+really unstoppable,en,0.935,EDM
+muy dolido,es,0.104,Flamenco
+really vibrant,en,0.975,Techno
+Mood: euphoric,en,0.8,EDM
+Mood: mast,hi,0.8,Bollywood Dance
+Mood: thaka,hi,0.2,Old Classics
+muy animado,es,0.937,Salsa
+bahut khushi,hi,0.911,Bhangra
+Mood: thik-thak,hi,0.5,Sufi
+Me siento harto aún así quiero música feliz,es,0.827,Salsa
+really blessed,en,0.962,EDM
+Mood: thaka,hi,0.2,Bollywood Sad
+Main thaka hoon phir bhi mujhe kamal gaane sunne hain,hi,0.899,Bhangra
+I am feeling weary still I want blessed music,en,0.775,Funk
+I am feeling shattered still I want hyped music,en,0.889,EDM
+bahut zindadil,hi,0.886,Bollywood Dance
+I am feeling empty but I want vibrant music,en,0.883,Techno
+muy feliz,es,0.871,Reggaeton
+Me siento solo aunque quiero música animado,es,0.752,Merengue
+muy frustrado,es,0.099,Flamenco
+Mood: ecstatic,en,0.8,EDM
+Me siento enojado aún así quiero música feliz,es,0.759,Latin Pop
+Me siento frustrado sin embargo quiero música animado,es,0.769,Merengue
+really gleeful,en,0.968,Techno
+Mood: frustrado,es,0.2,Flamenco
+Mood: bien,es,0.5,Merengue
+really empty,en,0.105,Grunge
+bahut kamal,hi,0.89,Bhangra
+really miserable,en,0.091,Emo
+I am feeling devastated however I want unstoppable music,en,0.838,Techno
+Mood: pareshan,hi,0.2,Old Classics
+I am feeling heartbroken but I want unstoppable music,en,0.761,Pop
+Mood: frustrado,es,0.2,Flamenco
+Me siento triste pero quiero música animado,es,0.848,Salsa
+Mood: fine,en,0.5,Pop
+Main tanha hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.804,Bhangra
+really radiant,en,0.86,Techno
+Mood: kamal,hi,0.8,Bollywood Dance
+bahut zindadil,hi,0.948,Bollywood Dance
+Me siento deprimido sin embargo quiero música increíble,es,0.851,Reggaeton
+Me siento triste sin embargo quiero música animado,es,0.835,Salsa
+Main dukhy hoon par mujhe kamal gaane sunne hain,hi,0.946,Bollywood Dance
+I am feeling gloomy still I want vibrant music,en,0.81,Techno
+Main tanha hoon magar mujhe anand gaane sunne hain,hi,0.804,Bhangra
+Me siento solo aún así quiero música alegre,es,0.9,Salsa
+really gloomy,en,0.13,Emo
+Mood: solo,es,0.2,Flamenco
+really blessed,en,0.97,Techno
+Mood: deprimido,es,0.2,Flamenco
+Mood: feliz,es,0.8,Reggaeton
+Main dukhy hoon lekin mujhe mast gaane sunne hain,hi,0.865,Bollywood Dance
+muy emocionado,es,0.888,Salsa
+Mood: solo,es,0.2,Flamenco
+Me siento solo sin embargo quiero música alegre,es,0.895,Salsa
+Mood: frustrado,es,0.2,Latin Rock
+Mood: nirash,hi,0.2,Old Classics
+Mood: entusiasmado,es,0.8,Salsa
+really euphoric,en,0.886,EDM
+really ecstatic,en,0.969,EDM
+really vibrant,en,0.856,EDM
+muy agotado,es,0.042,Flamenco
+bahut khushi,hi,0.923,Bhangra
+I am feeling weary still I want ecstatic music,en,0.894,EDM
+Mood: khush,hi,0.8,Bhangra
+Mood: zindadil,hi,0.8,Bhangra
+Mood: dolido,es,0.2,Latin Rock
+I am feeling empty however I want radiant music,en,0.942,Techno
+Mood: tanha,hi,0.2,Old Classics
+muy genial,es,0.935,Salsa
+Main nirash hoon par mujhe khushi gaane sunne hain,hi,0.931,Bollywood Dance
+really hyped,en,0.938,EDM
+Me siento enojado aunque quiero música animado,es,0.932,Salsa
+Mood: zindadil,hi,0.8,Bhangra
+Mood: entusiasmado,es,0.8,Salsa
+bahut dukh,hi,0.013,Old Classics
+Mood: khamosh,hi,0.5,Indie-Pop
+Mood: fine,en,0.5,Funk
+muy animado,es,0.86,Salsa
+Main dukh hoon magar mujhe kamal gaane sunne hain,hi,0.886,Bollywood Dance
+bahut zindadil,hi,0.939,Bhangra
+Main thaka hoon magar mujhe kamal gaane sunne hain,hi,0.829,Bollywood Dance
+I am feeling shattered yet I want ecstatic music,en,0.89,EDM
+Me siento agotado pero quiero música emocionado,es,0.876,Salsa
+I am feeling shattered still I want unstoppable music,en,0.948,Techno
+Main pareshan hoon lekin mujhe khushi gaane sunne hain,hi,0.827,Bhangra
+Mood: defeated,en,0.2,Emo
+Mood: thik-thak,hi,0.5,Sufi
+Me siento harto aún así quiero música alegre,es,0.851,Salsa
+bahut bechain,hi,0.043,Old Classics
+Mood: euphoric,en,0.8,EDM
+Mood: detached,en,0.5,Funk
+really empty,en,0.071,Emo
+Mood: radiant,en,0.8,EDM
+muy alegre,es,0.881,Salsa
+I am feeling gloomy yet I want vibrant music,en,0.854,EDM
+Mood: solo,es,0.2,Flamenco
+Main bechain hoon lekin mujhe anand gaane sunne hain,hi,0.868,Bhangra
+really gloomy,en,0.039,Emo
+really miserable,en,0.058,Grunge
+bahut zindadil,hi,0.97,Bhangra
+muy harto,es,0.111,Latin Rock
+Main bechain hoon par mujhe anand gaane sunne hain,hi,0.783,Sufi
+bahut khushi,hi,0.969,Bhangra
+bahut bechain,hi,0.145,Old Classics
+really radiant,en,0.975,EDM
+Main bechain hoon par mujhe khush gaane sunne hain,hi,0.881,Bollywood Dance
+Mood: fine,en,0.5,Pop
+Main thaka hoon par mujhe khushi gaane sunne hain,hi,0.853,Bollywood Dance
+Mood: unstoppable,en,0.8,EDM
+muy entusiasmado,es,0.983,Reggaeton
+Me siento frustrado aún así quiero música radiante,es,0.801,Salsa
+muy frustrado,es,0.095,Latin Rock
+Mood: dolido,es,0.2,Flamenco
+I am feeling weary yet I want blessed music,en,0.837,Techno
+muy enojado,es,0.032,Flamenco
+Mood: nirash,hi,0.2,Old Classics
+I am feeling devastated but I want unstoppable music,en,0.847,Techno
+Main udaas hoon lekin mujhe khushi gaane sunne hain,hi,0.931,Bollywood Dance
+Mood: dolido,es,0.2,Flamenco
+Main tanha hoon par mujhe shandaar gaane sunne hain,hi,0.786,Sufi
+Main nirash hoon lekin mujhe khushi gaane sunne hain,hi,0.775,Sufi
+muy genial,es,0.951,Reggaeton
+Mood: defeated,en,0.2,Emo
+Mood: calmado,es,0.5,Merengue
+muy dolido,es,0.148,Latin Rock
+really vibrant,en,0.937,Techno
+Main pareshan hoon phir bhi mujhe utsahit gaane sunne hain,hi,0.846,Bollywood Dance
+Mood: bechain,hi,0.2,Bollywood Sad
+really gloomy,en,0.082,Grunge
+I am feeling devastated but I want gleeful music,en,0.919,EDM
+Mood: blessed,en,0.8,Techno
+Mood: deprimido,es,0.2,Flamenco
+Me siento enojado aún así quiero música emocionado,es,0.814,Reggaeton
+I am feeling weary however I want gleeful music,en,0.932,Techno
+muy genial,es,0.872,Reggaeton
+Me siento deprimido aunque quiero música animado,es,0.793,Latin Pop
+Mood: ordinary,en,0.5,Pop
+really weary,en,0.075,Grunge
+Mood: ecstatic,en,0.8,Techno
+Mood: agotado,es,0.2,Flamenco
+Main dukh hoon phir bhi mujhe khushi gaane sunne hain,hi,0.768,Indie-Pop
+I am feeling empty still I want radiant music,en,0.885,EDM
+muy animado,es,0.864,Reggaeton
+Me siento enojado sin embargo quiero música entusiasmado,es,0.878,Reggaeton
+Mood: harto,es,0.2,Latin Rock
+Main dukhy hoon magar mujhe khush gaane sunne hain,hi,0.928,Bollywood Dance
+Mood: detached,en,0.5,Pop
+I am feeling heartbroken but I want hyped music,en,0.89,EDM
+Mood: thik-thak,hi,0.5,Sufi
+Mood: miserable,en,0.2,Grunge
+Main dukh hoon lekin mujhe zindadil gaane sunne hain,hi,0.949,Bhangra
+really hyped,en,0.904,EDM
+I am feeling gloomy however I want radiant music,en,0.804,EDM
+Mood: heartbroken,en,0.2,Emo
+Main dukhy hoon magar mujhe utsahit gaane sunne hain,hi,0.874,Bollywood Dance
+Mood: deprimido,es,0.2,Latin Rock
+really devastated,en,0.077,Grunge
+I am feeling empty but I want radiant music,en,0.782,Pop
+really euphoric,en,0.93,EDM
+really hyped,en,0.922,EDM
+Mood: vibrant,en,0.8,EDM
+Mood: gloomy,en,0.2,Emo
+I am feeling miserable but I want radiant music,en,0.808,Techno
+I am feeling shattered however I want unstoppable music,en,0.841,Techno
+I am feeling weary however I want hyped music,en,0.759,Pop
+I am feeling shattered yet I want unstoppable music,en,0.756,Pop
+Mood: enojado,es,0.2,Latin Rock
+muy radiante,es,0.894,Salsa
+Mood: equilibrado,es,0.5,Latin Pop
+Main udaas hoon par mujhe kamal gaane sunne hain,hi,0.933,Bollywood Dance
+bahut tanha,hi,0.135,Old Classics
+Me siento agotado aunque quiero música animado,es,0.897,Reggaeton
+muy deprimido,es,0.071,Latin Rock
+Mood: zindadil,hi,0.8,Bhangra
+Me siento solo sin embargo quiero música emocionado,es,0.778,Merengue
+really radiant,en,0.873,Techno
+Mood: triste,es,0.2,Flamenco
+Me siento triste aunque quiero música feliz,es,0.861,Salsa
+muy alegre,es,0.994,Salsa
+Me siento agotado aún así quiero música feliz,es,0.805,Reggaeton
+really heartbroken,en,0.036,Grunge
+Mood: devastated,en,0.2,Emo
+Me siento solo sin embargo quiero música increíble,es,0.913,Salsa
+muy animado,es,0.995,Salsa
+Main dukhy hoon lekin mujhe shandaar gaane sunne hain,hi,0.819,Bhangra
+Me siento dolido pero quiero música radiante,es,0.889,Reggaeton
+I am feeling weary but I want blessed music,en,0.824,EDM
+muy genial,es,0.917,Reggaeton
+muy triste,es,0.022,Latin Rock
+really radiant,en,0.974,Techno
+Mood: empty,en,0.2,Emo
+Mood: enojado,es,0.2,Flamenco
+I am feeling devastated still I want unstoppable music,en,0.772,Funk
+I am feeling heartbroken however I want gleeful music,en,0.904,Techno
+Main dukhy hoon phir bhi mujhe utsahit gaane sunne hain,hi,0.758,Sufi
+muy alegre,es,0.941,Salsa
+Main pareshan hoon phir bhi mujhe khush gaane sunne hain,hi,0.924,Bollywood Dance
+Mood: theek,hi,0.5,Indie-Pop
+Mood: composed,en,0.5,Funk
+Main nirash hoon magar mujhe khushi gaane sunne hain,hi,0.78,Sufi
+really defeated,en,0.109,Grunge
+muy radiante,es,0.987,Salsa
+Mood: dukh,hi,0.2,Bollywood Sad
+really devastated,en,0.014,Grunge
+Mood: tanha,hi,0.2,Old Classics
+I am feeling heartbroken still I want euphoric music,en,0.922,EDM
+Mood: tanha,hi,0.2,Bollywood Sad
+Mood: utsahit,hi,0.8,Bhangra
+Main nirash hoon lekin mujhe utsahit gaane sunne hain,hi,0.885,Bhangra
+Main tanha hoon par mujhe kamal gaane sunne hain,hi,0.829,Bollywood Dance
+bahut dukh,hi,0.002,Old Classics
+I am feeling weary still I want euphoric music,en,0.83,EDM
+Me siento dolido sin embargo quiero música radiante,es,0.918,Salsa
+Me siento solo sin embargo quiero música feliz,es,0.845,Reggaeton
+muy dolido,es,0.058,Flamenco
+bahut anand,hi,0.954,Bhangra
+Mood: zindadil,hi,0.8,Bhangra
+Mood: euphoric,en,0.8,EDM
+Mood: gloomy,en,0.2,Grunge
+I am feeling weary yet I want gleeful music,en,0.801,Techno
+bahut thaka,hi,0.08,Old Classics
+muy entusiasmado,es,0.926,Reggaeton
+Mood: shant,hi,0.5,Sufi
+I am feeling defeated however I want hyped music,en,0.852,EDM
+I am feeling weary still I want blessed music,en,0.906,EDM
+Mood: thaka,hi,0.2,Old Classics
+muy dolido,es,0.118,Flamenco
+muy increíble,es,0.922,Salsa
+muy feliz,es,0.955,Reggaeton
+I am feeling shattered however I want gleeful music,en,0.82,EDM
+Mood: emocionado,es,0.8,Salsa
+Mood: detached,en,0.5,Funk
+I am feeling devastated but I want radiant music,en,0.893,EDM
+Mood: hyped,en,0.8,EDM
+Mood: khamosh,hi,0.5,Indie-Pop
+bahut khush,hi,0.855,Bollywood Dance
+Main thaka hoon lekin mujhe khush gaane sunne hain,hi,0.794,Indie-Pop
+muy solo,es,0.104,Latin Rock
+bahut dukh,hi,0.116,Old Classics
+bahut dukhy,hi,0.01,Bollywood Sad
+Main tanha hoon lekin mujhe kamal gaane sunne hain,hi,0.875,Bhangra
+muy alegre,es,0.986,Reggaeton
+Main dukhy hoon lekin mujhe utsahit gaane sunne hain,hi,0.809,Bollywood Dance
+really unstoppable,en,0.972,EDM
+muy emocionado,es,0.926,Reggaeton
+bahut dukh,hi,0.094,Bollywood Sad
+Main dukh hoon lekin mujhe khushi gaane sunne hain,hi,0.788,Sufi
+Main udaas hoon lekin mujhe mast gaane sunne hain,hi,0.843,Bollywood Dance
+Mood: unstoppable,en,0.8,Techno
+Mood: emocionado,es,0.8,Reggaeton
+muy emocionado,es,0.971,Salsa
+Mood: frustrado,es,0.2,Latin Rock
+I am feeling gloomy yet I want vibrant music,en,0.808,Techno
+Mood: vibrant,en,0.8,Techno
+Mood: entusiasmado,es,0.8,Reggaeton
+Mood: defeated,en,0.2,Emo
+Main thaka hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.926,Bollywood Dance
+Me siento triste aunque quiero música emocionado,es,0.762,Latin Pop
+I am feeling empty but I want blessed music,en,0.773,Funk
+Mood: thik-thak,hi,0.5,Indie-Pop
+Mood: nirash,hi,0.2,Bollywood Sad
+Main nirash hoon magar mujhe mast gaane sunne hain,hi,0.858,Bhangra
+bahut nirash,hi,0.143,Bollywood Sad
+Mood: emocionado,es,0.8,Salsa
+bahut dukhy,hi,0.064,Old Classics
+Mood: shattered,en,0.2,Emo
+Main dukh hoon lekin mujhe mast gaane sunne hain,hi,0.922,Bhangra
+muy agotado,es,0.124,Latin Rock
+Mood: hyped,en,0.8,Techno
+Me siento frustrado aunque quiero música alegre,es,0.928,Salsa
+Mood: nirash,hi,0.2,Bollywood Sad
+I am feeling heartbroken but I want radiant music,en,0.856,Techno
+Mood: bien,es,0.5,Latin Pop
+Mood: bechain,hi,0.2,Bollywood Sad
+muy emocionado,es,0.865,Reggaeton
+Mood: pareshan,hi,0.2,Bollywood Sad
+Mood: unstoppable,en,0.8,EDM
+muy feliz,es,0.981,Salsa
+Mood: euphoric,en,0.8,Techno
+bahut udaas,hi,0.067,Bollywood Sad
+I am feeling gloomy however I want blessed music,en,0.852,Techno
+Main thaka hoon magar mujhe zindadil gaane sunne hain,hi,0.824,Bhangra
+bahut khush,hi,0.945,Bhangra
+Mood: deprimido,es,0.2,Flamenco
+Me siento deprimido pero quiero música radiante,es,0.77,Latin Pop
+Mood: zindadil,hi,0.8,Bollywood Dance
+Mood: blessed,en,0.8,EDM
+Me siento agotado aunque quiero música emocionado,es,0.771,Merengue
+muy enojado,es,0.043,Flamenco
+Mood: khamosh,hi,0.5,Indie-Pop
+Mood: pareshan,hi,0.2,Old Classics
+I am feeling devastated but I want hyped music,en,0.805,EDM
+Mood: vibrant,en,0.8,Techno
+muy enojado,es,0.082,Flamenco
+muy alegre,es,0.921,Salsa
+Main tanha hoon lekin mujhe anand gaane sunne hain,hi,0.942,Bollywood Dance
+bahut pareshan,hi,0.063,Bollywood Sad
+Mood: entusiasmado,es,0.8,Reggaeton
+Me siento frustrado aún así quiero música entusiasmado,es,0.896,Reggaeton
+Mood: feliz,es,0.8,Reggaeton
+I am feeling miserable however I want gleeful music,en,0.759,Funk
+Mood: khushi,hi,0.8,Bollywood Dance
+Mood: kamal,hi,0.8,Bollywood Dance
+Me siento enojado aún así quiero música radiante,es,0.88,Reggaeton
+Mood: euphoric,en,0.8,EDM
+Mood: animado,es,0.8,Salsa
+Main pareshan hoon par mujhe utsahit gaane sunne hain,hi,0.792,Indie-Pop
+Mood: mellow,en,0.5,Funk
+muy increíble,es,0.867,Reggaeton
+Me siento dolido sin embargo quiero música entusiasmado,es,0.942,Salsa
+Mood: fine,en,0.5,Funk
+really gloomy,en,0.13,Emo
+Me siento enojado sin embargo quiero música feliz,es,0.859,Reggaeton
+really radiant,en,0.894,Techno
+Me siento dolido sin embargo quiero música entusiasmado,es,0.776,Latin Pop
+Me siento deprimido aún así quiero música genial,es,0.819,Salsa
+bahut utsahit,hi,0.872,Bhangra
+Mood: thaka,hi,0.2,Old Classics
+Me siento dolido aún así quiero música radiante,es,0.939,Reggaeton
+bahut mast,hi,0.966,Bhangra
+Mood: blessed,en,0.8,Techno
+muy triste,es,0.016,Flamenco
+Me siento enojado sin embargo quiero música emocionado,es,0.883,Salsa
+Me siento harto sin embargo quiero música entusiasmado,es,0.869,Reggaeton
+Main dukhy hoon lekin mujhe kamal gaane sunne hain,hi,0.927,Bhangra
+I am feeling defeated but I want ecstatic music,en,0.764,Pop
+Mood: tranquilo,es,0.5,Latin Pop
+Mood: utsahit,hi,0.8,Bhangra
+Mood: shandaar,hi,0.8,Bhangra
+bahut zindadil,hi,0.97,Bollywood Dance
+Me siento harto pero quiero música entusiasmado,es,0.84,Reggaeton
+Mood: vibrant,en,0.8,EDM
+Me siento deprimido pero quiero música radiante,es,0.845,Salsa
+I am feeling empty however I want ecstatic music,en,0.88,EDM
+Main dukh hoon par mujhe khushi gaane sunne hain,hi,0.794,Sufi
+I am feeling shattered yet I want radiant music,en,0.813,Techno
+Mood: fine,en,0.5,Funk
+I am feeling weary still I want hyped music,en,0.936,EDM
+Mood: agotado,es,0.2,Flamenco
+Mood: vibrant,en,0.8,EDM
+I am feeling miserable still I want ecstatic music,en,0.852,EDM
+Mood: solo,es,0.2,Flamenco
+Mood: dukh,hi,0.2,Old Classics
+Me siento dolido sin embargo quiero música feliz,es,0.894,Reggaeton
+Mood: dukhy,hi,0.2,Old Classics
+Main tanha hoon phir bhi mujhe kamal gaane sunne hain,hi,0.946,Bollywood Dance
+I am feeling miserable but I want ecstatic music,en,0.778,Pop
+Mood: enojado,es,0.2,Latin Rock
+Main udaas hoon magar mujhe zindadil gaane sunne hain,hi,0.911,Bollywood Dance
+bahut khushi,hi,0.931,Bollywood Dance
+I am feeling defeated but I want blessed music,en,0.888,Techno
+muy solo,es,0.039,Latin Rock
+Main bechain hoon par mujhe mast gaane sunne hain,hi,0.881,Bhangra
+Mood: khushi,hi,0.8,Bhangra
+bahut utsahit,hi,0.991,Bhangra
+Me siento deprimido pero quiero música entusiasmado,es,0.924,Reggaeton
+bahut shandaar,hi,0.866,Bollywood Dance
+bahut nirash,hi,0.001,Old Classics
+Main pareshan hoon par mujhe anand gaane sunne hain,hi,0.894,Bhangra
+Me siento harto aunque quiero música radiante,es,0.937,Reggaeton
+Mood: equilibrado,es,0.5,Merengue
+bahut bechain,hi,0.141,Bollywood Sad
+bahut dukhy,hi,0.033,Old Classics
+Me siento harto aún así quiero música radiante,es,0.784,Merengue
+Mood: radiant,en,0.8,Techno
+really radiant,en,0.983,Techno
+bahut bechain,hi,0.115,Bollywood Sad
+really shattered,en,0.122,Grunge
+I am feeling empty still I want radiant music,en,0.94,EDM
+muy dolido,es,0.104,Flamenco
+Mood: increíble,es,0.8,Salsa
+Mood: frustrado,es,0.2,Latin Rock
+muy animado,es,0.861,Salsa
+Main tanha hoon magar mujhe khushi gaane sunne hain,hi,0.811,Bhangra
+really miserable,en,0.053,Grunge
+bahut shandaar,hi,0.901,Bollywood Dance
+really hyped,en,0.934,EDM
+Me siento frustrado aunque quiero música animado,es,0.805,Reggaeton
+really euphoric,en,0.933,EDM
+really gleeful,en,0.999,Techno
+I am feeling devastated however I want radiant music,en,0.767,Pop
+Mood: udaas,hi,0.2,Bollywood Sad
+bahut udaas,hi,0.09,Old Classics
+Me siento deprimido pero quiero música increíble,es,0.78,Merengue
+Mood: thik-thak,hi,0.5,Indie-Pop
+bahut udaas,hi,0.055,Old Classics
+really weary,en,0.028,Emo
+Mood: gleeful,en,0.8,EDM
+really heartbroken,en,0.025,Emo
+Mood: udaas,hi,0.2,Old Classics
+Mood: thik-thak,hi,0.5,Sufi
+Mood: udaas,hi,0.2,Bollywood Sad
+muy triste,es,0.001,Flamenco
+Me siento triste pero quiero música entusiasmado,es,0.942,Salsa
+Main dukh hoon phir bhi mujhe kamal gaane sunne hain,hi,0.915,Bollywood Dance
+Mood: miserable,en,0.2,Emo
+Mood: mellow,en,0.5,Funk
+Mood: stable,en,0.5,Funk
+bahut shandaar,hi,0.956,Bhangra
+I am feeling defeated however I want euphoric music,en,0.806,EDM
+muy genial,es,0.99,Reggaeton
+muy enojado,es,0.075,Latin Rock
+bahut khush,hi,0.879,Bollywood Dance
+Me siento dolido aunque quiero música entusiasmado,es,0.9,Reggaeton
+Me siento agotado sin embargo quiero música feliz,es,0.909,Reggaeton
+Mood: harto,es,0.2,Latin Rock
+Mood: animado,es,0.8,Reggaeton
+bahut khushi,hi,0.916,Bhangra
+really gleeful,en,0.942,Techno
+muy frustrado,es,0.089,Latin Rock
+I am feeling defeated however I want euphoric music,en,0.788,Pop
+Mood: devastated,en,0.2,Emo
+Mood: radiant,en,0.8,EDM
+Mood: saamanay,hi,0.5,Sufi
+really hyped,en,0.949,EDM
+Mood: genial,es,0.8,Reggaeton
+I am feeling shattered but I want blessed music,en,0.763,Pop
+really gloomy,en,0.027,Grunge
+muy emocionado,es,0.997,Salsa
+Me siento enojado pero quiero música radiante,es,0.842,Salsa
+Mood: calmado,es,0.5,Latin Pop
+really defeated,en,0.119,Emo
+Main tanha hoon phir bhi mujhe utsahit gaane sunne hain,hi,0.906,Bollywood Dance
+muy alegre,es,0.915,Salsa
+muy entusiasmado,es,0.989,Salsa
+I am feeling heartbroken yet I want radiant music,en,0.797,Pop
+Main nirash hoon lekin mujhe zindadil gaane sunne hain,hi,0.809,Bollywood Dance
+Mood: tanha,hi,0.2,Bollywood Sad
+muy increíble,es,0.912,Reggaeton
+Main pareshan hoon phir bhi mujhe khushi gaane sunne hain,hi,0.929,Bollywood Dance
+Main pareshan hoon par mujhe utsahit gaane sunne hain,hi,0.892,Bhangra
+Me siento harto aún así quiero música genial,es,0.752,Merengue
+Main nirash hoon lekin mujhe khushi gaane sunne hain,hi,0.887,Bhangra
+Me siento triste aunque quiero música alegre,es,0.788,Latin Pop
+Me siento agotado pero quiero música emocionado,es,0.864,Reggaeton
+Main tanha hoon phir bhi mujhe khushi gaane sunne hain,hi,0.943,Bhangra
+Mood: shant,hi,0.5,Sufi
+really euphoric,en,0.894,EDM
+bahut kamal,hi,0.916,Bollywood Dance
+Mood: normal,es,0.5,Merengue
+really radiant,en,0.913,Techno
+Mood: equilibrado,es,0.5,Latin Pop
+muy harto,es,0.041,Flamenco
+Mood: anand,hi,0.8,Bollywood Dance
+Main tanha hoon magar mujhe shandaar gaane sunne hain,hi,0.784,Sufi
+Main bechain hoon lekin mujhe khushi gaane sunne hain,hi,0.757,Sufi
+Me siento solo pero quiero música entusiasmado,es,0.95,Reggaeton
+I am feeling heartbroken still I want radiant music,en,0.863,Techno
+I am feeling heartbroken yet I want euphoric music,en,0.807,Techno
+muy frustrado,es,0.015,Latin Rock
+muy dolido,es,0.146,Flamenco
+Mood: mellow,en,0.5,Funk
+really gloomy,en,0.033,Grunge
+Mood: saamanay,hi,0.5,Sufi
+Mood: radiante,es,0.8,Reggaeton
+Mood: composed,en,0.5,Funk
+Mood: devastated,en,0.2,Emo
+Mood: nirash,hi,0.2,Bollywood Sad
+muy solo,es,0.063,Latin Rock
+Mood: animado,es,0.8,Reggaeton
+muy entusiasmado,es,0.904,Reggaeton
+Mood: composed,en,0.5,Funk
+Mood: gloomy,en,0.2,Grunge
+Mood: thik-thak,hi,0.5,Indie-Pop
+Mood: mellow,en,0.5,Pop
+Main bechain hoon magar mujhe anand gaane sunne hain,hi,0.793,Sufi
+really ecstatic,en,0.941,EDM
+Mood: solo,es,0.2,Flamenco
+Mood: dukhy,hi,0.2,Old Classics
+I am feeling miserable still I want vibrant music,en,0.781,Pop
+Mood: ordinary,en,0.5,Funk
+Main tanha hoon phir bhi mujhe shandaar gaane sunne hain,hi,0.794,Indie-Pop
+really heartbroken,en,0.042,Emo
+Me siento agotado pero quiero música emocionado,es,0.929,Reggaeton
+Mood: miserable,en,0.2,Grunge
+muy animado,es,0.864,Salsa
+I am feeling gloomy however I want hyped music,en,0.896,Techno
+Mood: dukhy,hi,0.2,Bollywood Sad
+Mood: theek,hi,0.5,Indie-Pop
+Mood: mast,hi,0.8,Bhangra
+Mood: ecstatic,en,0.8,Techno
+I am feeling devastated yet I want blessed music,en,0.777,Funk
+Me siento harto sin embargo quiero música animado,es,0.799,Merengue
+muy genial,es,0.976,Salsa
+muy feliz,es,0.941,Salsa
+bahut utsahit,hi,0.859,Bhangra
+bahut bechain,hi,0.039,Old Classics
+bahut dukhy,hi,0.098,Old Classics
+muy agotado,es,0.038,Latin Rock
+Mood: utsahit,hi,0.8,Bhangra
+really heartbroken,en,0.138,Grunge
+Mood: genial,es,0.8,Reggaeton
+Mood: dolido,es,0.2,Flamenco
+muy alegre,es,0.883,Reggaeton
+I am feeling miserable yet I want hyped music,en,0.809,Techno
+really euphoric,en,0.892,EDM
+muy radiante,es,0.883,Reggaeton
+muy animado,es,0.901,Reggaeton
+Mood: khush,hi,0.8,Bollywood Dance
+Main dukh hoon lekin mujhe utsahit gaane sunne hain,hi,0.774,Indie-Pop
+I am feeling devastated still I want gleeful music,en,0.778,Pop
+Mood: equilibrado,es,0.5,Merengue
+Mood: tanha,hi,0.2,Old Classics
+bahut khushi,hi,0.868,Bhangra
+muy emocionado,es,0.909,Salsa
+really defeated,en,0.043,Emo
+Me siento enojado pero quiero música radiante,es,0.941,Salsa
+I am feeling heartbroken but I want vibrant music,en,0.853,EDM
+Main pareshan hoon magar mujhe shandaar gaane sunne hain,hi,0.946,Bhangra
+bahut tanha,hi,0.06,Old Classics
+Mood: thaka,hi,0.2,Bollywood Sad
+really defeated,en,0.038,Emo
+I am feeling defeated but I want euphoric music,en,0.945,EDM
+Mood: khush,hi,0.8,Bhangra
+Mood: detached,en,0.5,Funk
+muy triste,es,0.006,Latin Rock
+I am feeling weary still I want gleeful music,en,0.949,Techno
+really devastated,en,0.046,Grunge
+bahut thaka,hi,0.049,Bollywood Sad
+Mood: calmado,es,0.5,Latin Pop
+Mood: gleeful,en,0.8,Techno
+I am feeling defeated yet I want radiant music,en,0.915,Techno
+muy enojado,es,0.016,Latin Rock
+really shattered,en,0.006,Emo
+I am feeling shattered but I want euphoric music,en,0.762,Funk
+really hyped,en,0.978,EDM
+Mood: utsahit,hi,0.8,Bollywood Dance
+bahut bechain,hi,0.04,Old Classics
+bahut bechain,hi,0.127,Old Classics
+bahut thaka,hi,0.091,Old Classics
+muy emocionado,es,0.931,Reggaeton
+Main tanha hoon par mujhe utsahit gaane sunne hain,hi,0.943,Bollywood Dance
+Main udaas hoon par mujhe khush gaane sunne hain,hi,0.772,Sufi
+really gloomy,en,0.099,Grunge
+muy emocionado,es,0.965,Reggaeton
+Mood: mellow,en,0.5,Pop
+muy enojado,es,0.086,Flamenco
+Mood: blessed,en,0.8,EDM
+bahut shandaar,hi,0.902,Bollywood Dance
+muy harto,es,0.047,Latin Rock
+bahut khush,hi,0.947,Bollywood Dance
+really blessed,en,0.972,Techno
+really devastated,en,0.002,Emo
+I am feeling miserable but I want ecstatic music,en,0.915,EDM
+Mood: weary,en,0.2,Emo
+muy enojado,es,0.067,Latin Rock
+really euphoric,en,0.873,EDM
+Me siento dolido aún así quiero música radiante,es,0.84,Salsa
+muy enojado,es,0.144,Latin Rock
+Mood: shant,hi,0.5,Indie-Pop
+muy enojado,es,0.108,Flamenco
+Me siento triste pero quiero música radiante,es,0.767,Latin Pop
+bahut mast,hi,0.943,Bhangra
+Mood: animado,es,0.8,Salsa
+I am feeling devastated yet I want ecstatic music,en,0.861,EDM
+bahut kamal,hi,0.899,Bhangra
+Mood: genial,es,0.8,Salsa
+I am feeling empty yet I want vibrant music,en,0.902,Techno
+Mood: dukhy,hi,0.2,Bollywood Sad
+muy feliz,es,0.966,Salsa
+I am feeling gloomy still I want ecstatic music,en,0.92,Techno
+Mood: deprimido,es,0.2,Latin Rock
+Mood: defeated,en,0.2,Emo
+Mood: detached,en,0.5,Funk
+Mood: tranquilo,es,0.5,Merengue
+Mood: equilibrado,es,0.5,Merengue
+Main tanha hoon magar mujhe khush gaane sunne hain,hi,0.863,Bhangra
+really weary,en,0.003,Emo
+bahut dukhy,hi,0.016,Bollywood Sad
+Mood: mast,hi,0.8,Bollywood Dance
+Mood: pareshan,hi,0.2,Old Classics
+muy radiante,es,0.934,Reggaeton
+Mood: alegre,es,0.8,Salsa
+Mood: gloomy,en,0.2,Emo
+Mood: hyped,en,0.8,Techno
+I am feeling devastated yet I want gleeful music,en,0.861,Techno
+Mood: tanha,hi,0.2,Old Classics
+Mood: agotado,es,0.2,Latin Rock
+muy deprimido,es,0.076,Flamenco
+really radiant,en,0.983,EDM
+Mood: radiant,en,0.8,EDM
+Mood: frustrado,es,0.2,Flamenco
+really ecstatic,en,0.931,EDM
+really unstoppable,en,0.956,Techno
+really ecstatic,en,0.939,Techno
+Me siento agotado aunque quiero música entusiasmado,es,0.806,Salsa
+I am feeling shattered however I want radiant music,en,0.823,EDM
+Mood: ecstatic,en,0.8,Techno
+Mood: nirash,hi,0.2,Bollywood Sad
+I am feeling shattered but I want radiant music,en,0.823,Techno
+Mood: calmado,es,0.5,Latin Pop
+I am feeling defeated however I want hyped music,en,0.903,Techno
+Mood: defeated,en,0.2,Grunge
+really devastated,en,0.026,Emo
+Me siento agotado aún así quiero música alegre,es,0.911,Salsa
+muy enojado,es,0.056,Flamenco
+I am feeling heartbroken however I want unstoppable music,en,0.869,Techno
+muy agotado,es,0.036,Latin Rock
+Me siento frustrado aún así quiero música emocionado,es,0.937,Reggaeton
+Main pareshan hoon magar mujhe mast gaane sunne hain,hi,0.941,Bollywood Dance
+Mood: tranquilo,es,0.5,Merengue
+bahut shandaar,hi,0.933,Bhangra
+Mood: blessed,en,0.8,EDM
+bahut dukh,hi,0.148,Old Classics
+Me siento frustrado aunque quiero música increíble,es,0.889,Salsa
+Mood: ordinary,en,0.5,Funk
+I am feeling defeated still I want vibrant music,en,0.898,Techno
+Mood: euphoric,en,0.8,Techno
+Me siento triste pero quiero música radiante,es,0.763,Latin Pop
+Mood: weary,en,0.2,Emo
+really euphoric,en,0.992,Techno
+bahut thaka,hi,0.032,Old Classics
+Mood: radiant,en,0.8,EDM
+Mood: genial,es,0.8,Reggaeton
+Mood: detached,en,0.5,Funk
+Main pareshan hoon par mujhe khush gaane sunne hain,hi,0.92,Bhangra
+I am feeling heartbroken however I want ecstatic music,en,0.946,Techno
+Mood: bien,es,0.5,Merengue
+really hyped,en,0.913,Techno
+Mood: dukh,hi,0.2,Old Classics
+Main udaas hoon lekin mujhe shandaar gaane sunne hain,hi,0.821,Bollywood Dance
+Mood: dukh,hi,0.2,Bollywood Sad
+bahut bechain,hi,0.119,Old Classics
+really weary,en,0.14,Grunge
+Mood: genial,es,0.8,Reggaeton
+Mood: detached,en,0.5,Funk
+really devastated,en,0.078,Emo
+Mood: khamosh,hi,0.5,Indie-Pop
+really blessed,en,0.951,Techno
+really unstoppable,en,0.957,Techno
+Me siento deprimido aún así quiero música genial,es,0.854,Reggaeton
+muy animado,es,0.96,Salsa
+really unstoppable,en,0.9,Techno
+Mood: khushi,hi,0.8,Bhangra
+Mood: zindadil,hi,0.8,Bhangra
+muy harto,es,0.095,Latin Rock
+muy triste,es,0.046,Latin Rock
+Mood: radiant,en,0.8,EDM
+bahut nirash,hi,0.104,Old Classics
+muy harto,es,0.136,Latin Rock
+Main pareshan hoon lekin mujhe mast gaane sunne hain,hi,0.767,Indie-Pop
+muy deprimido,es,0.063,Latin Rock
+Me siento harto sin embargo quiero música animado,es,0.851,Reggaeton
+I am feeling weary yet I want radiant music,en,0.782,Pop
+bahut kamal,hi,0.94,Bollywood Dance
+muy enojado,es,0.14,Latin Rock
+Me siento frustrado aunque quiero música entusiasmado,es,0.942,Salsa
+Me siento harto sin embargo quiero música entusiasmado,es,0.806,Salsa
+bahut utsahit,hi,0.881,Bollywood Dance
+Main dukhy hoon phir bhi mujhe utsahit gaane sunne hain,hi,0.81,Bollywood Dance
+Mood: gleeful,en,0.8,EDM
+muy radiante,es,0.954,Salsa
+Mood: mast,hi,0.8,Bollywood Dance
+really radiant,en,0.898,Techno
+Me siento agotado aunque quiero música animado,es,0.758,Merengue
+Mood: ordinary,en,0.5,Funk
+Mood: harto,es,0.2,Flamenco
+Mood: saamanay,hi,0.5,Indie-Pop
+muy animado,es,0.987,Reggaeton
+I am feeling weary but I want ecstatic music,en,0.895,EDM
+I am feeling defeated but I want blessed music,en,0.78,Pop
+Mood: dukh,hi,0.2,Old Classics
+Mood: alegre,es,0.8,Salsa
+bahut dukh,hi,0.072,Bollywood Sad
+Main dukh hoon phir bhi mujhe khush gaane sunne hain,hi,0.857,Bhangra
+muy dolido,es,0.119,Latin Rock
+muy triste,es,0.016,Latin Rock
+Mood: khush,hi,0.8,Bollywood Dance
+Mood: animado,es,0.8,Salsa
+Mood: shant,hi,0.5,Sufi
+Mood: khush,hi,0.8,Bollywood Dance
+Main pareshan hoon magar mujhe zindadil gaane sunne hain,hi,0.898,Bollywood Dance
+Mood: udaas,hi,0.2,Old Classics
+really shattered,en,0.147,Grunge
+Me siento solo sin embargo quiero música feliz,es,0.884,Salsa
+Me siento dolido aún así quiero música entusiasmado,es,0.88,Salsa
+Mood: pareshan,hi,0.2,Old Classics
+Me siento solo pero quiero música increíble,es,0.797,Latin Pop
+Mood: udaas,hi,0.2,Bollywood Sad
+I am feeling heartbroken still I want euphoric music,en,0.792,Pop
+Me siento triste sin embargo quiero música increíble,es,0.767,Merengue
+Mood: stable,en,0.5,Pop
+Mood: gloomy,en,0.2,Emo
+muy triste,es,0.094,Latin Rock
+muy deprimido,es,0.139,Latin Rock
+Mood: shattered,en,0.2,Emo
+Main dukhy hoon phir bhi mujhe anand gaane sunne hain,hi,0.816,Bollywood Dance
+bahut nirash,hi,0.004,Bollywood Sad
+Me siento triste sin embargo quiero música genial,es,0.902,Salsa
+Mood: dukhy,hi,0.2,Bollywood Sad
+bahut mast,hi,0.928,Bhangra
+muy genial,es,0.974,Salsa
+I am feeling weary still I want unstoppable music,en,0.774,Pop
+Main nirash hoon magar mujhe shandaar gaane sunne hain,hi,0.892,Bollywood Dance
+Mood: frustrado,es,0.2,Latin Rock
+Main tanha hoon lekin mujhe kamal gaane sunne hain,hi,0.813,Bollywood Dance
+really shattered,en,0.067,Emo
+I am feeling shattered still I want gleeful music,en,0.812,Techno
+Mood: feliz,es,0.8,Reggaeton
+Mood: mellow,en,0.5,Pop
+bahut anand,hi,0.86,Bollywood Dance
+bahut khush,hi,0.981,Bhangra
+Me siento dolido aunque quiero música animado,es,0.881,Reggaeton
+bahut anand,hi,0.973,Bollywood Dance
+Me siento frustrado aunque quiero música radiante,es,0.794,Merengue
+Mood: radiant,en,0.8,EDM
+Mood: pareshan,hi,0.2,Bollywood Sad
+Mood: saamanay,hi,0.5,Sufi
+bahut bechain,hi,0.112,Old Classics
+Main bechain hoon magar mujhe anand gaane sunne hain,hi,0.764,Sufi
+I am feeling weary however I want unstoppable music,en,0.947,Techno
+Mood: deprimido,es,0.2,Latin Rock
+Mood: calmado,es,0.5,Latin Pop
+bahut zindadil,hi,0.918,Bhangra
+Mood: shattered,en,0.2,Grunge
+Main bechain hoon lekin mujhe utsahit gaane sunne hain,hi,0.771,Indie-Pop
+Mood: dolido,es,0.2,Latin Rock
+Mood: devastated,en,0.2,Grunge
+muy deprimido,es,0.073,Flamenco
+Me siento agotado aún así quiero música increíble,es,0.766,Merengue
+bahut tanha,hi,0.132,Bollywood Sad
+really empty,en,0.018,Emo
+muy emocionado,es,0.913,Reggaeton
+muy alegre,es,0.994,Reggaeton
+I am feeling heartbroken however I want radiant music,en,0.938,EDM
+I am feeling miserable but I want vibrant music,en,0.876,Techno
+Main pareshan hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.784,Sufi
+really hyped,en,0.885,Techno
+bahut kamal,hi,0.893,Bollywood Dance
+Main thaka hoon phir bhi mujhe khushi gaane sunne hain,hi,0.91,Bhangra
+Mood: entusiasmado,es,0.8,Reggaeton
+bahut nirash,hi,0.014,Bollywood Sad
+really vibrant,en,0.999,Techno
+Main nirash hoon lekin mujhe khushi gaane sunne hain,hi,0.887,Bhangra
+Me siento solo aunque quiero música genial,es,0.805,Reggaeton
+Mood: ordinary,en,0.5,Pop
+really ecstatic,en,1.0,Techno
+Mood: fine,en,0.5,Funk
+bahut pareshan,hi,0.027,Old Classics
+muy dolido,es,0.114,Latin Rock
+Mood: entusiasmado,es,0.8,Salsa
+bahut pareshan,hi,0.126,Old Classics
+muy increíble,es,0.983,Salsa
+Mood: thik-thak,hi,0.5,Indie-Pop
+Me siento harto aunque quiero música feliz,es,0.8,Latin Pop
+I am feeling heartbroken but I want gleeful music,en,0.906,Techno
+Main bechain hoon par mujhe shandaar gaane sunne hain,hi,0.778,Indie-Pop
+Mood: genial,es,0.8,Salsa
+Mood: bien,es,0.5,Merengue
+Mood: bechain,hi,0.2,Old Classics
+muy feliz,es,0.905,Reggaeton
+Mood: mast,hi,0.8,Bollywood Dance
+bahut shandaar,hi,0.945,Bollywood Dance
+Mood: pareshan,hi,0.2,Bollywood Sad
+bahut mast,hi,0.932,Bhangra
+muy deprimido,es,0.059,Latin Rock
+Me siento dolido aún así quiero música increíble,es,0.777,Merengue
+Mood: gleeful,en,0.8,EDM
+really gloomy,en,0.101,Emo
+Mood: blessed,en,0.8,EDM
+I am feeling shattered however I want hyped music,en,0.85,Techno
+Mood: devastated,en,0.2,Grunge
+Main tanha hoon par mujhe khushi gaane sunne hain,hi,0.893,Bhangra
+Mood: khamosh,hi,0.5,Sufi
+I am feeling weary but I want euphoric music,en,0.817,EDM
+bahut utsahit,hi,0.873,Bollywood Dance
+muy agotado,es,0.03,Latin Rock
+Main nirash hoon par mujhe anand gaane sunne hain,hi,0.864,Bollywood Dance
+muy entusiasmado,es,0.936,Salsa
+Me siento dolido aunque quiero música genial,es,0.764,Latin Pop
+bahut khushi,hi,0.908,Bollywood Dance
+I am feeling miserable but I want gleeful music,en,0.773,Funk
+bahut nirash,hi,0.029,Bollywood Sad
+Me siento solo aún así quiero música alegre,es,0.839,Salsa
+Me siento solo aunque quiero música feliz,es,0.935,Reggaeton
+Mood: triste,es,0.2,Flamenco
+Me siento dolido pero quiero música animado,es,0.921,Reggaeton
+Me siento dolido aún así quiero música entusiasmado,es,0.775,Merengue
+Mood: kamal,hi,0.8,Bollywood Dance
+Mood: genial,es,0.8,Reggaeton
+Mood: nirash,hi,0.2,Bollywood Sad
+Mood: khushi,hi,0.8,Bollywood Dance
+Mood: khamosh,hi,0.5,Sufi
+Me siento dolido sin embargo quiero música feliz,es,0.893,Reggaeton
+really weary,en,0.076,Grunge
+Mood: ecstatic,en,0.8,Techno
+Main nirash hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.932,Bollywood Dance
+Mood: dukhy,hi,0.2,Old Classics
+really blessed,en,0.911,Techno
+Mood: theek,hi,0.5,Indie-Pop
+bahut nirash,hi,0.088,Bollywood Sad
+Me siento enojado aunque quiero música alegre,es,0.864,Reggaeton
+Main nirash hoon lekin mujhe anand gaane sunne hain,hi,0.791,Indie-Pop
+Mood: empty,en,0.2,Emo
+really radiant,en,0.883,Techno
+Me siento dolido sin embargo quiero música radiante,es,0.87,Reggaeton
+Main thaka hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.87,Bhangra
+Main nirash hoon par mujhe utsahit gaane sunne hain,hi,0.791,Indie-Pop
+Mood: khamosh,hi,0.5,Sufi
+Me siento frustrado sin embargo quiero música emocionado,es,0.844,Reggaeton
+Mood: solo,es,0.2,Flamenco
+Mood: triste,es,0.2,Flamenco
+Mood: shattered,en,0.2,Grunge
+bahut nirash,hi,0.07,Old Classics
+I am feeling devastated still I want euphoric music,en,0.839,Techno
+muy deprimido,es,0.024,Flamenco
+Mood: dukhy,hi,0.2,Bollywood Sad
+Mood: enojado,es,0.2,Flamenco
+Main pareshan hoon phir bhi mujhe shandaar gaane sunne hain,hi,0.861,Bhangra
+Mood: tranquilo,es,0.5,Merengue
+Main dukh hoon par mujhe mast gaane sunne hain,hi,0.778,Indie-Pop
+Mood: empty,en,0.2,Emo
+bahut thaka,hi,0.018,Bollywood Sad
+muy genial,es,0.922,Salsa
+Mood: stable,en,0.5,Funk
+bahut pareshan,hi,0.079,Old Classics
+Mood: dukh,hi,0.2,Old Classics
+Main bechain hoon phir bhi mujhe mast gaane sunne hain,hi,0.851,Bhangra
+Main bechain hoon par mujhe khushi gaane sunne hain,hi,0.867,Bollywood Dance
+I am feeling empty but I want radiant music,en,0.773,Pop
+really empty,en,0.043,Grunge
+bahut khushi,hi,0.976,Bollywood Dance
+bahut bechain,hi,0.123,Old Classics
+Mood: hyped,en,0.8,Techno
+bahut nirash,hi,0.089,Bollywood Sad
+Mood: animado,es,0.8,Reggaeton
+bahut thaka,hi,0.025,Bollywood Sad
+Mood: hyped,en,0.8,EDM
+bahut kamal,hi,0.96,Bhangra
+Mood: pareshan,hi,0.2,Old Classics
+Me siento harto sin embargo quiero música radiante,es,0.766,Merengue
+Mood: gloomy,en,0.2,Emo
+I am feeling devastated still I want hyped music,en,0.925,EDM
+Mood: vibrant,en,0.8,EDM
+Mood: dukh,hi,0.2,Old Classics
+Main udaas hoon par mujhe kamal gaane sunne hain,hi,0.774,Indie-Pop
+Mood: defeated,en,0.2,Grunge
+I am feeling miserable still I want hyped music,en,0.879,EDM
+really radiant,en,0.907,Techno
+bahut shandaar,hi,0.965,Bollywood Dance
+Mood: animado,es,0.8,Salsa
+Main tanha hoon magar mujhe kamal gaane sunne hain,hi,0.902,Bollywood Dance
+Me siento agotado pero quiero música increíble,es,0.782,Merengue
+Mood: ecstatic,en,0.8,EDM
+Mood: khamosh,hi,0.5,Indie-Pop
+muy emocionado,es,0.936,Salsa
+Mood: detached,en,0.5,Funk
+I am feeling weary but I want gleeful music,en,0.822,EDM
+really weary,en,0.081,Emo
+Mood: normal,es,0.5,Latin Pop
+Me siento triste aún así quiero música emocionado,es,0.77,Latin Pop
+Mood: blessed,en,0.8,EDM
+Me siento enojado aún así quiero música radiante,es,0.763,Merengue
+really defeated,en,0.052,Emo
+Mood: defeated,en,0.2,Emo
+bahut udaas,hi,0.124,Old Classics
+really shattered,en,0.095,Grunge
+Mood: shandaar,hi,0.8,Bollywood Dance
+Mood: gloomy,en,0.2,Emo
+Mood: deprimido,es,0.2,Flamenco
+Main dukhy hoon magar mujhe zindadil gaane sunne hain,hi,0.877,Bollywood Dance
+Me siento dolido sin embargo quiero música emocionado,es,0.84,Salsa
+Main dukh hoon par mujhe utsahit gaane sunne hain,hi,0.927,Bhangra
+I am feeling weary but I want unstoppable music,en,0.899,EDM
+Main dukh hoon par mujhe shandaar gaane sunne hain,hi,0.797,Indie-Pop
+Me siento harto pero quiero música emocionado,es,0.816,Salsa
+really euphoric,en,0.863,EDM
+Mood: saamanay,hi,0.5,Sufi
+really empty,en,0.066,Grunge
+Mood: ordinary,en,0.5,Funk
+Mood: pareshan,hi,0.2,Old Classics
+Me siento deprimido sin embargo quiero música increíble,es,0.825,Salsa
+Mood: shattered,en,0.2,Emo
+Me siento deprimido aunque quiero música animado,es,0.87,Salsa
+really defeated,en,0.023,Grunge
+muy radiante,es,0.993,Reggaeton
+Mood: defeated,en,0.2,Emo
+really ecstatic,en,0.959,Techno
+Main tanha hoon magar mujhe mast gaane sunne hain,hi,0.782,Indie-Pop
+Mood: defeated,en,0.2,Grunge
+Mood: shant,hi,0.5,Indie-Pop
+Me siento deprimido sin embargo quiero música radiante,es,0.911,Salsa
+Mood: solo,es,0.2,Latin Rock
+I am feeling empty however I want vibrant music,en,0.829,Techno
+Mood: radiant,en,0.8,EDM
+Mood: radiante,es,0.8,Reggaeton
+I am feeling empty but I want ecstatic music,en,0.841,EDM
+I am feeling miserable however I want blessed music,en,0.916,Techno
+Mood: thik-thak,hi,0.5,Sufi
+Mood: triste,es,0.2,Flamenco
+Mood: harto,es,0.2,Flamenco
+Mood: animado,es,0.8,Reggaeton
+I am feeling shattered still I want blessed music,en,0.841,Techno
+Main bechain hoon phir bhi mujhe shandaar gaane sunne hain,hi,0.891,Bollywood Dance
+Mood: triste,es,0.2,Latin Rock
+Mood: composed,en,0.5,Pop
+muy dolido,es,0.096,Latin Rock
+Mood: dukh,hi,0.2,Old Classics
+really unstoppable,en,0.96,Techno
+Mood: solo,es,0.2,Flamenco
+Me siento harto aunque quiero música emocionado,es,0.865,Salsa
+really gleeful,en,0.974,EDM
+Mood: thik-thak,hi,0.5,Indie-Pop
+muy dolido,es,0.067,Latin Rock
+Main pareshan hoon par mujhe kamal gaane sunne hain,hi,0.891,Bollywood Dance
+muy frustrado,es,0.069,Latin Rock
+Main dukh hoon lekin mujhe utsahit gaane sunne hain,hi,0.866,Bhangra
+Me siento harto aunque quiero música increíble,es,0.755,Merengue
+bahut nirash,hi,0.092,Bollywood Sad
+Mood: radiant,en,0.8,EDM
+I am feeling gloomy but I want unstoppable music,en,0.923,EDM
+bahut thaka,hi,0.143,Bollywood Sad
+I am feeling empty still I want gleeful music,en,0.771,Funk
+Mood: entusiasmado,es,0.8,Reggaeton
+really empty,en,0.127,Grunge
+bahut nirash,hi,0.07,Old Classics
+bahut zindadil,hi,0.954,Bollywood Dance
+Mood: deprimido,es,0.2,Latin Rock
+really shattered,en,0.004,Emo
+really empty,en,0.045,Grunge
+Mood: ecstatic,en,0.8,EDM
+I am feeling shattered but I want radiant music,en,0.939,Techno
+Mood: devastated,en,0.2,Emo
+muy animado,es,0.942,Reggaeton
+I am feeling weary however I want vibrant music,en,0.817,EDM
+Main pareshan hoon lekin mujhe khush gaane sunne hain,hi,0.899,Bollywood Dance
+really weary,en,0.13,Grunge
+Mood: khush,hi,0.8,Bollywood Dance
+really unstoppable,en,0.994,Techno
+Me siento agotado aún así quiero música animado,es,0.893,Reggaeton
+I am feeling defeated still I want hyped music,en,0.861,Techno
+bahut khushi,hi,0.956,Bhangra
+Mood: empty,en,0.2,Emo
+bahut utsahit,hi,0.985,Bhangra
+Me siento frustrado sin embargo quiero música feliz,es,0.918,Reggaeton
+Mood: dolido,es,0.2,Latin Rock
+muy feliz,es,0.971,Reggaeton
+Mood: agotado,es,0.2,Latin Rock
+Mood: pareshan,hi,0.2,Bollywood Sad
+I am feeling weary yet I want vibrant music,en,0.884,Techno
+Me siento agotado aunque quiero música entusiasmado,es,0.751,Latin Pop
+Mood: empty,en,0.2,Emo
+I am feeling gloomy but I want hyped music,en,0.812,EDM
+Mood: shattered,en,0.2,Emo
+muy animado,es,0.874,Reggaeton
+bahut anand,hi,0.941,Bhangra
+Mood: solo,es,0.2,Flamenco
+muy harto,es,0.015,Latin Rock
+Main bechain hoon par mujhe kamal gaane sunne hain,hi,0.844,Bhangra
+Mood: mellow,en,0.5,Funk
+Mood: kamal,hi,0.8,Bhangra
+really blessed,en,0.892,EDM
+Me siento agotado aunque quiero música emocionado,es,0.812,Salsa
+Mood: defeated,en,0.2,Grunge
+muy emocionado,es,0.983,Reggaeton
+I am feeling gloomy but I want blessed music,en,0.791,Funk
+bahut dukhy,hi,0.096,Old Classics
+Main pareshan hoon magar mujhe kamal gaane sunne hain,hi,0.879,Bollywood Dance
+bahut khush,hi,0.893,Bollywood Dance
+Mood: shattered,en,0.2,Emo
+Main tanha hoon phir bhi mujhe khush gaane sunne hain,hi,0.778,Sufi
+bahut shandaar,hi,0.869,Bollywood Dance
+bahut nirash,hi,0.092,Bollywood Sad
+Me siento frustrado pero quiero música radiante,es,0.894,Salsa
+bahut khush,hi,0.981,Bollywood Dance
+Mood: anand,hi,0.8,Bhangra
+really gleeful,en,0.995,EDM
+Mood: dolido,es,0.2,Latin Rock
+bahut shandaar,hi,0.896,Bollywood Dance
+Mood: equilibrado,es,0.5,Merengue
+really euphoric,en,0.897,EDM
+Mood: shant,hi,0.5,Sufi
+I am feeling gloomy but I want radiant music,en,0.944,Techno
+Main udaas hoon par mujhe shandaar gaane sunne hain,hi,0.95,Bollywood Dance
+bahut pareshan,hi,0.074,Old Classics
+I am feeling devastated however I want blessed music,en,0.758,Pop
+Mood: alegre,es,0.8,Reggaeton
+bahut mast,hi,0.903,Bollywood Dance
+Mood: normal,es,0.5,Latin Pop
+bahut khush,hi,0.942,Bhangra
+Mood: composed,en,0.5,Pop
+really unstoppable,en,0.891,EDM
+Mood: fine,en,0.5,Funk
+bahut zindadil,hi,0.987,Bollywood Dance
+Mood: ordinary,en,0.5,Pop
+I am feeling weary however I want ecstatic music,en,0.865,EDM
+Mood: shandaar,hi,0.8,Bollywood Dance
+Mood: calmado,es,0.5,Latin Pop
+Main nirash hoon lekin mujhe mast gaane sunne hain,hi,0.865,Bollywood Dance
+Me siento harto pero quiero música feliz,es,0.915,Salsa
+Mood: theek,hi,0.5,Sufi
+Main thaka hoon phir bhi mujhe anand gaane sunne hain,hi,0.91,Bhangra
+Mood: shandaar,hi,0.8,Bollywood Dance
+Mood: blessed,en,0.8,EDM
+I am feeling empty but I want unstoppable music,en,0.776,Pop
+muy entusiasmado,es,0.963,Reggaeton
+Me siento harto aunque quiero música entusiasmado,es,0.906,Salsa
+Mood: shattered,en,0.2,Grunge
+Main dukh hoon par mujhe anand gaane sunne hain,hi,0.929,Bhangra
+Mood: empty,en,0.2,Emo
+Main dukh hoon phir bhi mujhe khushi gaane sunne hain,hi,0.762,Indie-Pop
+Mood: stable,en,0.5,Pop
+bahut bechain,hi,0.097,Old Classics
+muy agotado,es,0.127,Latin Rock
+Main thaka hoon par mujhe mast gaane sunne hain,hi,0.799,Indie-Pop
+I am feeling shattered however I want ecstatic music,en,0.932,Techno
+Mood: unstoppable,en,0.8,Techno
+Main thaka hoon phir bhi mujhe kamal gaane sunne hain,hi,0.862,Bollywood Dance
+bahut bechain,hi,0.006,Bollywood Sad
+bahut dukhy,hi,0.112,Bollywood Sad
+really miserable,en,0.022,Emo
+muy alegre,es,0.911,Reggaeton
+really shattered,en,0.133,Grunge
+Mood: unstoppable,en,0.8,Techno
+really hyped,en,0.99,EDM
+Main bechain hoon lekin mujhe utsahit gaane sunne hain,hi,0.771,Sufi
+Mood: shant,hi,0.5,Sufi
+Mood: tranquilo,es,0.5,Latin Pop
+Mood: devastated,en,0.2,Grunge
+really radiant,en,0.956,EDM
+muy alegre,es,0.986,Salsa
+Mood: dolido,es,0.2,Latin Rock
+muy animado,es,0.999,Salsa
+Mood: triste,es,0.2,Latin Rock
+Mood: dukhy,hi,0.2,Old Classics
+Mood: thaka,hi,0.2,Bollywood Sad
+Me siento enojado pero quiero música emocionado,es,0.756,Merengue
+Mood: equilibrado,es,0.5,Latin Pop
+really blessed,en,0.965,Techno
+bahut khush,hi,0.982,Bollywood Dance
+Mood: detached,en,0.5,Pop
+Mood: tanha,hi,0.2,Old Classics
+I am feeling heartbroken but I want ecstatic music,en,0.89,Techno
+Main pareshan hoon par mujhe shandaar gaane sunne hain,hi,0.859,Bollywood Dance
+Me siento frustrado sin embargo quiero música entusiasmado,es,0.796,Latin Pop
+Mood: deprimido,es,0.2,Flamenco
+Mood: normal,es,0.5,Latin Pop
+bahut nirash,hi,0.099,Bollywood Sad
+bahut udaas,hi,0.113,Old Classics
+Mood: harto,es,0.2,Flamenco
+Main dukh hoon magar mujhe anand gaane sunne hain,hi,0.899,Bollywood Dance
+Mood: radiante,es,0.8,Reggaeton
+Main bechain hoon magar mujhe anand gaane sunne hain,hi,0.903,Bhangra
+bahut pareshan,hi,0.114,Bollywood Sad
+Me siento agotado pero quiero música genial,es,0.823,Reggaeton
+really devastated,en,0.134,Emo
+Main dukh hoon phir bhi mujhe utsahit gaane sunne hain,hi,0.929,Bollywood Dance
+Mood: ordinary,en,0.5,Pop
+Mood: stable,en,0.5,Funk
+Mood: kamal,hi,0.8,Bhangra
+Mood: composed,en,0.5,Funk
+bahut khush,hi,0.882,Bhangra
+muy animado,es,0.963,Reggaeton
+muy increíble,es,0.899,Salsa
+Mood: nirash,hi,0.2,Old Classics
+Mood: blessed,en,0.8,EDM
+Mood: hyped,en,0.8,Techno
+Mood: bechain,hi,0.2,Old Classics
+muy deprimido,es,0.013,Flamenco
+Me siento agotado aunque quiero música radiante,es,0.896,Salsa
+I am feeling heartbroken however I want blessed music,en,0.93,EDM
+muy harto,es,0.121,Flamenco
+Mood: devastated,en,0.2,Emo
+Mood: tranquilo,es,0.5,Latin Pop
+I am feeling defeated still I want gleeful music,en,0.878,Techno
+I am feeling miserable however I want ecstatic music,en,0.795,Pop
+muy increíble,es,0.954,Reggaeton
+Main thaka hoon lekin mujhe khush gaane sunne hain,hi,0.882,Bhangra
+I am feeling miserable yet I want ecstatic music,en,0.768,Funk
+muy entusiasmado,es,0.945,Salsa
+Mood: feliz,es,0.8,Reggaeton
+really gloomy,en,0.02,Grunge
+Mood: triste,es,0.2,Flamenco
+bahut bechain,hi,0.006,Bollywood Sad
+really gleeful,en,0.981,Techno
+muy animado,es,0.974,Reggaeton
+Mood: gleeful,en,0.8,EDM
+bahut khush,hi,0.926,Bollywood Dance
+Mood: tranquilo,es,0.5,Latin Pop
+Me siento solo aunque quiero música alegre,es,0.945,Salsa
+Me siento triste aún así quiero música animado,es,0.777,Merengue
+Mood: fine,en,0.5,Funk
+Mood: shandaar,hi,0.8,Bhangra
+bahut utsahit,hi,0.995,Bollywood Dance
+I am feeling miserable however I want radiant music,en,0.849,Techno
+I am feeling shattered however I want euphoric music,en,0.947,EDM
+Mood: mast,hi,0.8,Bhangra
+Mood: blessed,en,0.8,EDM
+Mood: tranquilo,es,0.5,Merengue
+Mood: equilibrado,es,0.5,Latin Pop
+Mood: empty,en,0.2,Emo
+Mood: defeated,en,0.2,Emo
+bahut khushi,hi,0.949,Bhangra
+Mood: theek,hi,0.5,Sufi
+Mood: euphoric,en,0.8,EDM
+Mood: agotado,es,0.2,Latin Rock
+I am feeling devastated however I want gleeful music,en,0.888,EDM
+I am feeling miserable yet I want euphoric music,en,0.791,Pop
+Mood: dolido,es,0.2,Flamenco
+Mood: heartbroken,en,0.2,Grunge
+Me siento harto sin embargo quiero música increíble,es,0.764,Latin Pop
+Me siento deprimido pero quiero música feliz,es,0.841,Reggaeton
+Main bechain hoon phir bhi mujhe mast gaane sunne hain,hi,0.8,Bollywood Dance
+muy increíble,es,0.881,Salsa
+Mood: saamanay,hi,0.5,Indie-Pop
+Main bechain hoon par mujhe anand gaane sunne hain,hi,0.875,Bhangra
+Me siento deprimido aunque quiero música increíble,es,0.938,Reggaeton
+bahut zindadil,hi,0.909,Bollywood Dance
+muy triste,es,0.012,Latin Rock
+Mood: enojado,es,0.2,Latin Rock
+Me siento frustrado pero quiero música radiante,es,0.76,Merengue
+bahut anand,hi,0.881,Bhangra
+Mood: emocionado,es,0.8,Salsa
+Mood: frustrado,es,0.2,Latin Rock
+Me siento agotado sin embargo quiero música alegre,es,0.779,Latin Pop
+Main dukhy hoon magar mujhe khushi gaane sunne hain,hi,0.885,Bhangra
+Me siento harto aún así quiero música emocionado,es,0.869,Reggaeton
+really weary,en,0.059,Emo
+Mood: triste,es,0.2,Latin Rock
+Mood: thaka,hi,0.2,Bollywood Sad
+Mood: radiant,en,0.8,EDM
+Main bechain hoon par mujhe anand gaane sunne hain,hi,0.79,Sufi
+Mood: normal,es,0.5,Merengue
+Mood: detached,en,0.5,Pop
+really miserable,en,0.115,Grunge
+Mood: thaka,hi,0.2,Old Classics
+muy frustrado,es,0.1,Latin Rock
+I am feeling miserable however I want blessed music,en,0.838,Techno
+really vibrant,en,0.969,EDM
+Mood: vibrant,en,0.8,EDM
+Mood: theek,hi,0.5,Sufi
+Mood: shandaar,hi,0.8,Bhangra
+Mood: stable,en,0.5,Pop
+Me siento solo aún así quiero música emocionado,es,0.754,Latin Pop
+Mood: increíble,es,0.8,Salsa
+muy harto,es,0.116,Latin Rock
+Mood: kamal,hi,0.8,Bollywood Dance
+bahut bechain,hi,0.056,Old Classics
+Mood: alegre,es,0.8,Salsa
+muy entusiasmado,es,0.997,Salsa
+muy harto,es,0.045,Latin Rock
+really miserable,en,0.138,Grunge
+Me siento frustrado aún así quiero música alegre,es,0.876,Salsa
+Main bechain hoon magar mujhe utsahit gaane sunne hain,hi,0.931,Bhangra
+Main dukh hoon lekin mujhe kamal gaane sunne hain,hi,0.907,Bhangra
+Mood: bechain,hi,0.2,Old Classics
+Mood: ordinary,en,0.5,Funk
+muy deprimido,es,0.065,Latin Rock
+Main bechain hoon magar mujhe shandaar gaane sunne hain,hi,0.876,Bollywood Dance
+I am feeling miserable yet I want unstoppable music,en,0.906,EDM
+muy agotado,es,0.114,Flamenco
+Mood: dukh,hi,0.2,Old Classics
+I am feeling miserable but I want unstoppable music,en,0.803,Techno
+Main udaas hoon magar mujhe shandaar gaane sunne hain,hi,0.785,Sufi
+Main bechain hoon magar mujhe khushi gaane sunne hain,hi,0.785,Indie-Pop
+Mood: anand,hi,0.8,Bhangra
+I am feeling heartbroken but I want euphoric music,en,0.862,Techno
+Mood: dukhy,hi,0.2,Bollywood Sad
+I am feeling defeated yet I want hyped music,en,0.87,EDM
+I am feeling miserable however I want euphoric music,en,0.876,Techno
+Mood: dolido,es,0.2,Latin Rock
+bahut mast,hi,0.901,Bhangra
+muy dolido,es,0.125,Latin Rock
+Main dukh hoon phir bhi mujhe kamal gaane sunne hain,hi,0.879,Bollywood Dance
+Mood: solo,es,0.2,Flamenco
+Mood: vibrant,en,0.8,Techno
+Mood: khamosh,hi,0.5,Indie-Pop
+Mood: anand,hi,0.8,Bollywood Dance
+Mood: empty,en,0.2,Grunge
+Mood: dukh,hi,0.2,Bollywood Sad
+Mood: normal,es,0.5,Merengue
+bahut zindadil,hi,0.96,Bhangra
+I am feeling weary still I want radiant music,en,0.921,Techno
+bahut utsahit,hi,0.915,Bhangra
+bahut dukh,hi,0.111,Bollywood Sad
+Mood: nirash,hi,0.2,Bollywood Sad
+I am feeling defeated but I want vibrant music,en,0.85,Techno
+I am feeling heartbroken but I want radiant music,en,0.91,Techno
+really vibrant,en,0.865,Techno
+I am feeling weary yet I want radiant music,en,0.946,Techno
+Main udaas hoon magar mujhe utsahit gaane sunne hain,hi,0.872,Bollywood Dance
+Mood: tanha,hi,0.2,Old Classics
+Mood: emocionado,es,0.8,Salsa
+muy enojado,es,0.088,Flamenco
+muy frustrado,es,0.146,Latin Rock
+bahut nirash,hi,0.067,Old Classics
+I am feeling shattered but I want radiant music,en,0.921,EDM
+Main tanha hoon phir bhi mujhe khushi gaane sunne hain,hi,0.751,Indie-Pop
+Mood: devastated,en,0.2,Grunge
+Me siento enojado aún así quiero música alegre,es,0.854,Salsa
+Main nirash hoon magar mujhe zindadil gaane sunne hain,hi,0.878,Bollywood Dance
+I am feeling weary yet I want gleeful music,en,0.844,EDM
+bahut khushi,hi,0.964,Bollywood Dance
+I am feeling devastated still I want euphoric music,en,0.796,Funk
+I am feeling weary however I want blessed music,en,0.838,EDM
+Main udaas hoon phir bhi mujhe khushi gaane sunne hain,hi,0.882,Bhangra
+Mood: shant,hi,0.5,Indie-Pop
+really defeated,en,0.07,Emo
+Mood: zindadil,hi,0.8,Bhangra
+I am feeling shattered yet I want blessed music,en,0.778,Funk
+Me siento triste aunque quiero música genial,es,0.799,Merengue
+bahut utsahit,hi,0.877,Bollywood Dance
+Mood: utsahit,hi,0.8,Bollywood Dance
+Mood: composed,en,0.5,Pop
+really gloomy,en,0.014,Emo
+Main udaas hoon lekin mujhe mast gaane sunne hain,hi,0.772,Sufi
+muy deprimido,es,0.07,Latin Rock
+really unstoppable,en,0.975,Techno
+Mood: enojado,es,0.2,Flamenco
+Mood: shandaar,hi,0.8,Bollywood Dance
+bahut tanha,hi,0.145,Bollywood Sad
+Me siento triste sin embargo quiero música increíble,es,0.933,Salsa
+bahut zindadil,hi,0.962,Bollywood Dance
+bahut khushi,hi,0.89,Bollywood Dance
+really hyped,en,0.923,EDM
+Mood: thik-thak,hi,0.5,Sufi
+Me siento harto sin embargo quiero música genial,es,0.91,Reggaeton
+Main dukhy hoon phir bhi mujhe mast gaane sunne hain,hi,0.877,Bollywood Dance
+I am feeling devastated but I want ecstatic music,en,0.84,Techno
+Me siento triste aunque quiero música animado,es,0.845,Reggaeton
+Mood: saamanay,hi,0.5,Sufi
+Mood: hyped,en,0.8,EDM
+Mood: khamosh,hi,0.5,Indie-Pop
+really unstoppable,en,0.933,Techno
+bahut anand,hi,0.864,Bollywood Dance
+Mood: vibrant,en,0.8,EDM
+Mood: solo,es,0.2,Latin Rock
+Mood: blessed,en,0.8,Techno
+muy triste,es,0.1,Flamenco
+really weary,en,0.051,Grunge
+Main nirash hoon phir bhi mujhe kamal gaane sunne hain,hi,0.877,Bhangra
+really radiant,en,0.949,EDM
+I am feeling heartbroken yet I want gleeful music,en,0.783,Pop
+Mood: vibrant,en,0.8,EDM
+muy deprimido,es,0.079,Flamenco
+Main bechain hoon phir bhi mujhe anand gaane sunne hain,hi,0.829,Bhangra
+Mood: genial,es,0.8,Reggaeton
+I am feeling miserable still I want unstoppable music,en,0.784,Funk
+I am feeling shattered but I want unstoppable music,en,0.773,Pop
+really hyped,en,0.877,EDM
+bahut dukhy,hi,0.113,Bollywood Sad
+Mood: utsahit,hi,0.8,Bhangra
+Mood: unstoppable,en,0.8,Techno
+bahut nirash,hi,0.025,Old Classics
+Me siento frustrado sin embargo quiero música entusiasmado,es,0.842,Salsa
+Mood: gleeful,en,0.8,EDM
+I am feeling miserable however I want radiant music,en,0.915,Techno
+Mood: gleeful,en,0.8,EDM
+Mood: heartbroken,en,0.2,Grunge
+I am feeling shattered yet I want blessed music,en,0.95,Techno
+really ecstatic,en,0.851,EDM
+bahut zindadil,hi,0.993,Bhangra
+Mood: alegre,es,0.8,Salsa
+muy deprimido,es,0.076,Flamenco
+Me siento harto aún así quiero música animado,es,0.883,Reggaeton
+really ecstatic,en,0.873,EDM
+Mood: tanha,hi,0.2,Old Classics
+Mood: agotado,es,0.2,Flamenco
+Mood: radiante,es,0.8,Salsa
+really miserable,en,0.099,Grunge
+Mood: thik-thak,hi,0.5,Indie-Pop
+muy radiante,es,0.897,Reggaeton
+really defeated,en,0.067,Emo
+Mood: shandaar,hi,0.8,Bhangra
+I am feeling shattered yet I want unstoppable music,en,0.889,EDM
+Mood: gloomy,en,0.2,Emo
+bahut udaas,hi,0.001,Bollywood Sad
+Mood: bien,es,0.5,Merengue
+muy deprimido,es,0.002,Flamenco
+bahut kamal,hi,0.922,Bhangra
+I am feeling miserable yet I want hyped music,en,0.89,EDM
+Mood: detached,en,0.5,Pop
+bahut utsahit,hi,0.886,Bollywood Dance
+muy increíble,es,0.95,Salsa
+Main thaka hoon par mujhe khush gaane sunne hain,hi,0.81,Bhangra
+bahut khushi,hi,0.998,Bollywood Dance
+Mood: ecstatic,en,0.8,EDM
+Mood: miserable,en,0.2,Emo
+bahut dukh,hi,0.129,Bollywood Sad
+I am feeling empty yet I want ecstatic music,en,0.782,Pop
+really euphoric,en,0.896,Techno
+Mood: shant,hi,0.5,Indie-Pop
+bahut utsahit,hi,0.877,Bollywood Dance
+Main thaka hoon phir bhi mujhe khushi gaane sunne hain,hi,0.762,Indie-Pop
+Me siento dolido pero quiero música increíble,es,0.857,Salsa
+Mood: deprimido,es,0.2,Latin Rock
+bahut khush,hi,0.879,Bhangra
+really radiant,en,0.933,EDM
+Mood: composed,en,0.5,Funk
+really vibrant,en,0.875,EDM
+Me siento dolido pero quiero música animado,es,0.85,Reggaeton
+Mood: dukhy,hi,0.2,Bollywood Sad
+Main pareshan hoon magar mujhe mast gaane sunne hain,hi,0.948,Bhangra
+Mood: bechain,hi,0.2,Bollywood Sad
+muy solo,es,0.082,Flamenco
+I am feeling empty still I want radiant music,en,0.781,Pop
+Mood: khush,hi,0.8,Bollywood Dance
+Mood: mellow,en,0.5,Funk
+really euphoric,en,0.872,Techno
+bahut zindadil,hi,0.902,Bhangra
+muy harto,es,0.092,Flamenco
+really gleeful,en,0.997,EDM
+Mood: chilled,en,0.5,Pop
+Main tanha hoon phir bhi mujhe shandaar gaane sunne hain,hi,0.908,Bollywood Dance
+I am feeling defeated but I want radiant music,en,0.931,Techno
+Main dukh hoon magar mujhe kamal gaane sunne hain,hi,0.873,Bhangra
+Mood: detached,en,0.5,Funk
+muy harto,es,0.127,Flamenco
+Mood: composed,en,0.5,Pop
+bahut khushi,hi,0.972,Bollywood Dance
+muy deprimido,es,0.073,Latin Rock
+bahut kamal,hi,0.905,Bhangra
+Mood: mast,hi,0.8,Bollywood Dance
+really hyped,en,0.981,Techno
+really radiant,en,0.886,Techno
+Mood: chilled,en,0.5,Pop
+Mood: tanha,hi,0.2,Old Classics
+Mood: feliz,es,0.8,Salsa
+Mood: weary,en,0.2,Grunge
+really ecstatic,en,0.893,EDM
+Me siento harto pero quiero música alegre,es,0.935,Salsa
+Mood: entusiasmado,es,0.8,Reggaeton
+Mood: khush,hi,0.8,Bhangra
+Mood: saamanay,hi,0.5,Sufi
+muy dolido,es,0.111,Flamenco
+Me siento agotado sin embargo quiero música feliz,es,0.764,Merengue
+bahut mast,hi,0.86,Bollywood Dance
+really gloomy,en,0.045,Grunge
+Mood: ordinary,en,0.5,Funk
+Mood: nirash,hi,0.2,Old Classics
+I am feeling heartbroken however I want ecstatic music,en,0.831,EDM
+Mood: khamosh,hi,0.5,Sufi
+muy triste,es,0.053,Flamenco
+Me siento triste pero quiero música genial,es,0.756,Latin Pop
+Mood: stable,en,0.5,Funk
+Mood: blessed,en,0.8,EDM
+Main dukh hoon phir bhi mujhe khushi gaane sunne hain,hi,0.762,Indie-Pop
+Mood: khushi,hi,0.8,Bollywood Dance
+Mood: bechain,hi,0.2,Bollywood Sad
+Mood: entusiasmado,es,0.8,Reggaeton
+Mood: equilibrado,es,0.5,Latin Pop
+Mood: saamanay,hi,0.5,Indie-Pop
+Mood: deprimido,es,0.2,Flamenco
+muy agotado,es,0.095,Latin Rock
+bahut zindadil,hi,1.0,Bhangra
+bahut anand,hi,0.982,Bhangra
+Mood: triste,es,0.2,Latin Rock
+I am feeling defeated yet I want blessed music,en,0.783,Pop
+bahut khush,hi,0.888,Bollywood Dance
+Mood: weary,en,0.2,Emo
+Main tanha hoon phir bhi mujhe shandaar gaane sunne hain,hi,0.798,Indie-Pop
+muy radiante,es,0.946,Reggaeton
+bahut mast,hi,0.998,Bollywood Dance
+Mood: ecstatic,en,0.8,Techno
+Mood: stable,en,0.5,Funk
+Mood: dolido,es,0.2,Flamenco
+really radiant,en,0.907,EDM
+bahut dukh,hi,0.149,Old Classics
+muy triste,es,0.064,Flamenco
+Mood: composed,en,0.5,Funk
+bahut utsahit,hi,0.96,Bollywood Dance
+muy emocionado,es,0.966,Reggaeton
+Me siento enojado aún así quiero música alegre,es,0.798,Merengue
+Mood: dolido,es,0.2,Flamenco
+muy harto,es,0.063,Flamenco
+really vibrant,en,0.983,EDM
+I am feeling weary still I want gleeful music,en,0.766,Funk
+Mood: alegre,es,0.8,Salsa
+Mood: radiant,en,0.8,EDM
+really shattered,en,0.121,Emo
+Mood: tanha,hi,0.2,Bollywood Sad
+Mood: entusiasmado,es,0.8,Salsa
+bahut kamal,hi,0.875,Bhangra
+really blessed,en,0.913,EDM
+muy emocionado,es,0.964,Salsa
+Mood: khushi,hi,0.8,Bollywood Dance
+I am feeling defeated but I want radiant music,en,0.937,Techno
+really gleeful,en,0.897,Techno
+muy triste,es,0.012,Latin Rock
+Me siento triste pero quiero música alegre,es,0.946,Reggaeton
+Mood: heartbroken,en,0.2,Emo
+Main pareshan hoon phir bhi mujhe mast gaane sunne hain,hi,0.875,Bollywood Dance
+really radiant,en,0.875,Techno
+really unstoppable,en,0.893,Techno
+I am feeling gloomy however I want gleeful music,en,0.93,EDM
+Main pareshan hoon par mujhe anand gaane sunne hain,hi,0.825,Bollywood Dance
+Main tanha hoon lekin mujhe anand gaane sunne hain,hi,0.798,Sufi
+Me siento triste aunque quiero música animado,es,0.916,Reggaeton
+I am feeling miserable still I want unstoppable music,en,0.896,Techno
+I am feeling shattered but I want vibrant music,en,0.948,EDM
+Main tanha hoon lekin mujhe anand gaane sunne hain,hi,0.844,Bhangra
+I am feeling gloomy still I want hyped music,en,0.86,Techno
+really blessed,en,0.89,EDM
+really unstoppable,en,0.913,EDM
+bahut zindadil,hi,0.904,Bhangra
+really euphoric,en,0.975,Techno
+Mood: nirash,hi,0.2,Bollywood Sad
+Mood: frustrado,es,0.2,Flamenco
+Mood: blessed,en,0.8,EDM
+really vibrant,en,0.95,Techno
+Mood: feliz,es,0.8,Reggaeton
+Me siento enojado aunque quiero música alegre,es,0.838,Reggaeton
+I am feeling empty yet I want unstoppable music,en,0.91,EDM
+I am feeling defeated however I want radiant music,en,0.809,Techno
+Mood: radiante,es,0.8,Reggaeton
+really unstoppable,en,0.972,EDM
+really euphoric,en,0.926,Techno
+Mood: anand,hi,0.8,Bollywood Dance
+really gloomy,en,0.138,Grunge
+muy entusiasmado,es,0.964,Salsa
+Me siento harto pero quiero música increíble,es,0.862,Salsa
+bahut dukhy,hi,0.122,Old Classics
+bahut zindadil,hi,0.889,Bhangra
+Mood: zindadil,hi,0.8,Bollywood Dance
+Mood: khushi,hi,0.8,Bhangra
+Me siento enojado aún así quiero música increíble,es,0.784,Latin Pop
+I am feeling devastated however I want unstoppable music,en,0.754,Funk
+Main pareshan hoon phir bhi mujhe mast gaane sunne hain,hi,0.883,Bhangra
+Mood: agotado,es,0.2,Latin Rock
+Mood: entusiasmado,es,0.8,Salsa
+Main dukh hoon phir bhi mujhe khushi gaane sunne hain,hi,0.807,Bollywood Dance
+muy alegre,es,0.996,Salsa
+bahut nirash,hi,0.126,Bollywood Sad
+muy feliz,es,0.861,Salsa
+Mood: tranquilo,es,0.5,Merengue
+I am feeling miserable however I want radiant music,en,0.842,Techno
+Me siento triste pero quiero música animado,es,0.87,Salsa
+bahut utsahit,hi,0.86,Bollywood Dance
+muy enojado,es,0.136,Flamenco
+really hyped,en,0.898,Techno
+I am feeling heartbroken yet I want vibrant music,en,0.823,EDM
+Mood: radiant,en,0.8,Techno
+Main tanha hoon magar mujhe khush gaane sunne hain,hi,0.905,Bollywood Dance
+Mood: normal,es,0.5,Latin Pop
+Mood: gloomy,en,0.2,Grunge
+really defeated,en,0.078,Emo
+Mood: dukhy,hi,0.2,Bollywood Sad
+really gleeful,en,0.891,EDM
+Mood: nirash,hi,0.2,Bollywood Sad
+muy harto,es,0.014,Latin Rock
+Me siento deprimido sin embargo quiero música emocionado,es,0.885,Reggaeton
+I am feeling gloomy but I want unstoppable music,en,0.899,Techno
+Mood: saamanay,hi,0.5,Indie-Pop
+I am feeling heartbroken still I want blessed music,en,0.864,EDM
+muy dolido,es,0.095,Flamenco
+I am feeling weary but I want ecstatic music,en,0.834,EDM
+bahut udaas,hi,0.138,Old Classics
+Mood: enojado,es,0.2,Flamenco
+Main tanha hoon par mujhe utsahit gaane sunne hain,hi,0.767,Indie-Pop
+muy deprimido,es,0.081,Latin Rock
+really unstoppable,en,0.969,EDM
+Mood: kamal,hi,0.8,Bollywood Dance
+Mood: dolido,es,0.2,Latin Rock
+I am feeling devastated yet I want unstoppable music,en,0.82,Techno
+Main dukhy hoon par mujhe khush gaane sunne hain,hi,0.934,Bhangra
+Mood: radiante,es,0.8,Salsa
+Me siento solo sin embargo quiero música emocionado,es,0.9,Reggaeton
+really devastated,en,0.01,Emo
+Mood: gleeful,en,0.8,Techno
+Me siento harto aún así quiero música feliz,es,0.937,Salsa
+Mood: bien,es,0.5,Latin Pop
+Main nirash hoon par mujhe utsahit gaane sunne hain,hi,0.918,Bollywood Dance
+Mood: empty,en,0.2,Grunge
+Main pareshan hoon par mujhe anand gaane sunne hain,hi,0.792,Indie-Pop
+Me siento triste aún así quiero música emocionado,es,0.857,Salsa
+Me siento dolido pero quiero música emocionado,es,0.892,Salsa
+Mood: udaas,hi,0.2,Bollywood Sad
+I am feeling heartbroken still I want euphoric music,en,0.815,EDM
+bahut khushi,hi,0.985,Bollywood Dance
+muy harto,es,0.15,Latin Rock
+Main thaka hoon lekin mujhe kamal gaane sunne hain,hi,0.774,Indie-Pop
+Mood: animado,es,0.8,Reggaeton
+Mood: theek,hi,0.5,Indie-Pop
+Mood: khushi,hi,0.8,Bhangra
+really shattered,en,0.135,Grunge
+Mood: dukh,hi,0.2,Old Classics
+Mood: tanha,hi,0.2,Old Classics
+really gloomy,en,0.05,Grunge
+Mood: composed,en,0.5,Pop
+Mood: nirash,hi,0.2,Old Classics
+Me siento deprimido aunque quiero música radiante,es,0.875,Salsa
+Mood: nirash,hi,0.2,Old Classics
+bahut anand,hi,0.945,Bollywood Dance
+Mood: feliz,es,0.8,Salsa
+I am feeling weary yet I want blessed music,en,0.837,EDM
+Mood: radiante,es,0.8,Salsa
+really gloomy,en,0.063,Emo
+I am feeling heartbroken still I want radiant music,en,0.939,EDM
+Main udaas hoon par mujhe zindadil gaane sunne hain,hi,0.804,Bhangra
+Mood: miserable,en,0.2,Emo
+Main nirash hoon phir bhi mujhe kamal gaane sunne hain,hi,0.779,Sufi
+I am feeling defeated yet I want radiant music,en,0.827,EDM
+I am feeling weary however I want hyped music,en,0.789,Funk
+muy feliz,es,0.884,Salsa
+really euphoric,en,0.972,Techno
+really miserable,en,0.045,Grunge
+Main dukh hoon lekin mujhe shandaar gaane sunne hain,hi,0.881,Bhangra
+muy genial,es,0.927,Salsa
+really gloomy,en,0.081,Grunge
+Mood: detached,en,0.5,Funk
+Mood: agotado,es,0.2,Flamenco
+Me siento deprimido aún así quiero música animado,es,0.914,Reggaeton
+Main bechain hoon phir bhi mujhe utsahit gaane sunne hain,hi,0.87,Bhangra
+Mood: nirash,hi,0.2,Bollywood Sad
+Mood: tanha,hi,0.2,Bollywood Sad
+Mood: triste,es,0.2,Flamenco
+bahut udaas,hi,0.119,Old Classics
+Mood: shattered,en,0.2,Grunge
+really vibrant,en,0.955,Techno
+bahut shandaar,hi,0.867,Bhangra
+bahut shandaar,hi,0.854,Bhangra
+really euphoric,en,0.949,EDM
+I am feeling shattered still I want vibrant music,en,0.939,Techno
+Mood: bien,es,0.5,Latin Pop
+Mood: harto,es,0.2,Latin Rock
+bahut kamal,hi,0.942,Bollywood Dance
+Mood: weary,en,0.2,Grunge
+Mood: solo,es,0.2,Latin Rock
+Me siento solo aunque quiero música radiante,es,0.91,Reggaeton
+really empty,en,0.015,Emo
+really blessed,en,0.858,Techno
+I am feeling heartbroken however I want radiant music,en,0.856,Techno
+bahut nirash,hi,0.042,Bollywood Sad
+Me siento enojado pero quiero música animado,es,0.765,Latin Pop
+Main nirash hoon magar mujhe anand gaane sunne hain,hi,0.798,Indie-Pop
+really radiant,en,0.998,EDM
+Mood: harto,es,0.2,Latin Rock
+I am feeling gloomy but I want ecstatic music,en,0.86,EDM
+Mood: unstoppable,en,0.8,EDM
+Main dukhy hoon phir bhi mujhe shandaar gaane sunne hain,hi,0.859,Bollywood Dance
+Mood: chilled,en,0.5,Funk
+Mood: gleeful,en,0.8,EDM
+Me siento triste sin embargo quiero música feliz,es,0.871,Reggaeton
+Me siento frustrado pero quiero música increíble,es,0.9,Reggaeton
+Mood: entusiasmado,es,0.8,Salsa
+Mood: bechain,hi,0.2,Old Classics
+Main udaas hoon par mujhe zindadil gaane sunne hain,hi,0.78,Indie-Pop
+muy entusiasmado,es,0.985,Salsa
+Me siento deprimido aún así quiero música feliz,es,0.944,Reggaeton
+Mood: calmado,es,0.5,Latin Pop
+Me siento harto aunque quiero música genial,es,0.795,Merengue
+really heartbroken,en,0.03,Grunge
+I am feeling heartbroken yet I want ecstatic music,en,0.93,EDM
+Mood: dolido,es,0.2,Latin Rock
+Main udaas hoon phir bhi mujhe khushi gaane sunne hain,hi,0.944,Bollywood Dance
+really blessed,en,0.876,Techno
+I am feeling shattered yet I want ecstatic music,en,0.802,EDM
+Mood: enojado,es,0.2,Latin Rock
+muy feliz,es,0.857,Salsa
+muy agotado,es,0.143,Flamenco
+Mood: animado,es,0.8,Salsa
+muy increíble,es,0.934,Reggaeton
+really hyped,en,0.956,EDM
+Main thaka hoon magar mujhe utsahit gaane sunne hain,hi,0.871,Bollywood Dance
+bahut dukh,hi,0.005,Old Classics
+bahut udaas,hi,0.011,Bollywood Sad
+Me siento harto aún así quiero música increíble,es,0.88,Reggaeton
+Mood: ecstatic,en,0.8,Techno
+Me siento agotado pero quiero música alegre,es,0.79,Merengue
+Mood: pareshan,hi,0.2,Bollywood Sad
+Main thaka hoon phir bhi mujhe utsahit gaane sunne hain,hi,0.864,Bhangra
+I am feeling shattered yet I want euphoric music,en,0.763,Pop
+Mood: hyped,en,0.8,EDM
+Mood: unstoppable,en,0.8,Techno
+Mood: increíble,es,0.8,Reggaeton
+I am feeling defeated still I want unstoppable music,en,0.796,Pop
+Me siento enojado pero quiero música increíble,es,0.931,Reggaeton
+Me siento solo aunque quiero música feliz,es,0.848,Reggaeton
+I am feeling weary however I want radiant music,en,0.927,EDM
+muy entusiasmado,es,0.957,Reggaeton
+Mood: radiante,es,0.8,Reggaeton
+muy deprimido,es,0.15,Latin Rock
+Mood: anand,hi,0.8,Bollywood Dance
+Me siento enojado pero quiero música radiante,es,0.922,Salsa
+really ecstatic,en,0.956,Techno
+bahut utsahit,hi,0.973,Bhangra
+Me siento frustrado sin embargo quiero música emocionado,es,0.9,Reggaeton
+Mood: emocionado,es,0.8,Salsa
+I am feeling devastated yet I want euphoric music,en,0.919,Techno
+muy triste,es,0.125,Flamenco
+bahut shandaar,hi,0.908,Bhangra
+Me siento dolido aún así quiero música genial,es,0.805,Salsa
+muy deprimido,es,0.03,Latin Rock
+Mood: gleeful,en,0.8,EDM
+Mood: mellow,en,0.5,Funk
+I am feeling empty yet I want gleeful music,en,0.755,Funk
+Mood: composed,en,0.5,Funk
+Mood: feliz,es,0.8,Reggaeton
+bahut shandaar,hi,0.858,Bhangra
+Mood: increíble,es,0.8,Salsa
+muy deprimido,es,0.023,Latin Rock
+Me siento dolido aún así quiero música feliz,es,0.884,Salsa
+bahut zindadil,hi,0.893,Bhangra
+Mood: deprimido,es,0.2,Flamenco
+really miserable,en,0.1,Emo
+bahut khush,hi,0.892,Bhangra
+Main dukhy hoon lekin mujhe kamal gaane sunne hain,hi,0.94,Bollywood Dance
+really ecstatic,en,0.887,Techno
+Me siento frustrado aún así quiero música increíble,es,0.848,Reggaeton
+bahut dukhy,hi,0.025,Bollywood Sad
+Main pareshan hoon lekin mujhe khushi gaane sunne hain,hi,0.841,Bhangra
+Me siento triste pero quiero música feliz,es,0.89,Reggaeton
+Main dukh hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.939,Bhangra
+muy dolido,es,0.048,Latin Rock
+Me siento dolido sin embargo quiero música emocionado,es,0.781,Merengue
+I am feeling empty but I want euphoric music,en,0.807,EDM
+bahut kamal,hi,0.962,Bhangra
+I am feeling devastated however I want blessed music,en,0.835,EDM
+really blessed,en,0.901,Techno
+Mood: increíble,es,0.8,Reggaeton
+bahut zindadil,hi,0.851,Bhangra
+Mood: devastated,en,0.2,Grunge
+really euphoric,en,0.897,EDM
+Mood: alegre,es,0.8,Reggaeton
+Mood: emocionado,es,0.8,Salsa
+bahut kamal,hi,0.869,Bhangra
+I am feeling empty still I want radiant music,en,0.76,Funk
+Mood: entusiasmado,es,0.8,Salsa
+really radiant,en,0.994,EDM
+Mood: radiante,es,0.8,Reggaeton
+I am feeling gloomy still I want euphoric music,en,0.764,Funk
+Mood: utsahit,hi,0.8,Bollywood Dance
+I am feeling empty however I want hyped music,en,0.774,Pop
+Mood: agotado,es,0.2,Flamenco
+muy deprimido,es,0.053,Latin Rock
+bahut anand,hi,0.919,Bhangra
+I am feeling shattered however I want hyped music,en,0.912,EDM
+Mood: zindadil,hi,0.8,Bollywood Dance
+Main bechain hoon phir bhi mujhe anand gaane sunne hain,hi,0.923,Bollywood Dance
+Mood: devastated,en,0.2,Grunge
+Main nirash hoon phir bhi mujhe utsahit gaane sunne hain,hi,0.865,Bollywood Dance
+Mood: radiante,es,0.8,Salsa
+bahut mast,hi,0.987,Bhangra
+Mood: saamanay,hi,0.5,Indie-Pop
+Me siento harto aún así quiero música increíble,es,0.8,Latin Pop
+Mood: increíble,es,0.8,Salsa
+Mood: dolido,es,0.2,Flamenco
+I am feeling shattered however I want gleeful music,en,0.89,Techno
+Mood: zindadil,hi,0.8,Bhangra
+Me siento enojado sin embargo quiero música radiante,es,0.777,Latin Pop
+I am feeling gloomy but I want hyped music,en,0.872,Techno
+Mood: deprimido,es,0.2,Flamenco
+Main bechain hoon phir bhi mujhe shandaar gaane sunne hain,hi,0.773,Indie-Pop
+Me siento deprimido pero quiero música emocionado,es,0.907,Salsa
+muy emocionado,es,0.866,Salsa
+I am feeling empty yet I want gleeful music,en,0.87,EDM
+Mood: deprimido,es,0.2,Flamenco
+Mood: blessed,en,0.8,Techno
+muy deprimido,es,0.046,Latin Rock
+I am feeling heartbroken yet I want unstoppable music,en,0.809,EDM
+Me siento enojado aunque quiero música genial,es,0.816,Salsa
+Mood: fine,en,0.5,Pop
+Mood: genial,es,0.8,Salsa
+muy harto,es,0.069,Latin Rock
+Main dukh hoon magar mujhe utsahit gaane sunne hain,hi,0.816,Bollywood Dance
+Mood: khush,hi,0.8,Bollywood Dance
+bahut tanha,hi,0.094,Bollywood Sad
+Me siento enojado sin embargo quiero música alegre,es,0.847,Salsa
+bahut anand,hi,0.885,Bhangra
+muy solo,es,0.07,Flamenco
+I am feeling miserable but I want blessed music,en,0.899,Techno
+really unstoppable,en,0.885,EDM
+I am feeling weary still I want hyped music,en,0.817,Techno
+muy dolido,es,0.096,Flamenco
+Mood: deprimido,es,0.2,Flamenco
+I am feeling heartbroken still I want ecstatic music,en,0.881,Techno
+bahut udaas,hi,0.073,Old Classics
+really gloomy,en,0.073,Grunge
+I am feeling defeated still I want gleeful music,en,0.827,Techno
+Me siento enojado aunque quiero música radiante,es,0.889,Salsa
+Main bechain hoon phir bhi mujhe khush gaane sunne hain,hi,0.754,Sufi
+Mood: empty,en,0.2,Emo
+I am feeling weary however I want vibrant music,en,0.935,EDM
+Mood: tanha,hi,0.2,Old Classics
+I am feeling miserable still I want hyped music,en,0.766,Funk
+Me siento deprimido aunque quiero música genial,es,0.811,Reggaeton
+Mood: nirash,hi,0.2,Bollywood Sad
+muy dolido,es,0.129,Latin Rock
+Mood: radiante,es,0.8,Reggaeton
+Mood: alegre,es,0.8,Salsa
+Mood: dolido,es,0.2,Flamenco
+I am feeling shattered but I want euphoric music,en,0.913,EDM
+Mood: shandaar,hi,0.8,Bollywood Dance
+Main thaka hoon magar mujhe mast gaane sunne hain,hi,0.75,Sufi
+Me siento agotado pero quiero música entusiasmado,es,0.904,Salsa
+Mood: khamosh,hi,0.5,Sufi
+bahut mast,hi,0.907,Bhangra
+Me siento harto aunque quiero música entusiasmado,es,0.814,Reggaeton
+Main tanha hoon par mujhe mast gaane sunne hain,hi,0.793,Indie-Pop
+Mood: shattered,en,0.2,Grunge
+bahut dukhy,hi,0.114,Old Classics
+Mood: dukhy,hi,0.2,Bollywood Sad
+really vibrant,en,0.913,EDM
+Mood: blessed,en,0.8,Techno
+really hyped,en,0.86,EDM
+Me siento deprimido pero quiero música increíble,es,0.835,Salsa
+Me siento triste pero quiero música genial,es,0.917,Salsa
+Mood: shandaar,hi,0.8,Bollywood Dance
+Mood: ordinary,en,0.5,Pop
+Main pareshan hoon lekin mujhe shandaar gaane sunne hain,hi,0.786,Indie-Pop
+really defeated,en,0.134,Emo
+Mood: radiante,es,0.8,Reggaeton
+Main tanha hoon lekin mujhe khush gaane sunne hain,hi,0.904,Bollywood Dance
+muy radiante,es,0.953,Reggaeton
+muy feliz,es,0.993,Reggaeton
+I am feeling devastated however I want euphoric music,en,0.853,Techno
+Mood: genial,es,0.8,Salsa
+bahut udaas,hi,0.061,Old Classics
+Mood: heartbroken,en,0.2,Emo
+Mood: triste,es,0.2,Flamenco
+Mood: normal,es,0.5,Latin Pop
+Main dukh hoon par mujhe khush gaane sunne hain,hi,0.819,Bhangra
+Mood: pareshan,hi,0.2,Old Classics
+I am feeling devastated however I want gleeful music,en,0.789,Pop
+bahut dukh,hi,0.107,Old Classics
+Me siento triste sin embargo quiero música radiante,es,0.796,Latin Pop
+really blessed,en,0.913,EDM
+Main pareshan hoon phir bhi mujhe shandaar gaane sunne hain,hi,0.872,Bollywood Dance
+Main thaka hoon par mujhe zindadil gaane sunne hain,hi,0.931,Bollywood Dance
+Main bechain hoon magar mujhe mast gaane sunne hain,hi,0.886,Bhangra
+really shattered,en,0.051,Emo
+muy frustrado,es,0.001,Flamenco
+really heartbroken,en,0.129,Emo
+Mood: tanha,hi,0.2,Bollywood Sad
+I am feeling defeated yet I want ecstatic music,en,0.816,Techno
+Mood: frustrado,es,0.2,Flamenco
+Me siento solo aunque quiero música genial,es,0.788,Latin Pop
+Mood: alegre,es,0.8,Salsa
+Me siento triste sin embargo quiero música entusiasmado,es,0.896,Reggaeton
+bahut thaka,hi,0.107,Old Classics
+really gleeful,en,0.913,Techno
+really miserable,en,0.032,Grunge
+bahut zindadil,hi,0.935,Bollywood Dance
+Mood: feliz,es,0.8,Reggaeton
+bahut dukh,hi,0.028,Bollywood Sad
+muy increíble,es,0.869,Reggaeton
+Mood: ordinary,en,0.5,Funk
+Main bechain hoon par mujhe shandaar gaane sunne hain,hi,0.917,Bollywood Dance
+Mood: thik-thak,hi,0.5,Sufi
+Mood: tranquilo,es,0.5,Merengue
+Main dukh hoon magar mujhe shandaar gaane sunne hain,hi,0.778,Indie-Pop
+bahut thaka,hi,0.047,Old Classics
+bahut shandaar,hi,0.885,Bollywood Dance
+Mood: ordinary,en,0.5,Pop
+Mood: stable,en,0.5,Funk
+bahut thaka,hi,0.097,Old Classics
+Mood: stable,en,0.5,Pop
+Mood: tranquilo,es,0.5,Merengue
+Mood: ordinary,en,0.5,Pop
+muy genial,es,0.961,Reggaeton
+really weary,en,0.02,Emo
+bahut khush,hi,0.91,Bhangra
+bahut utsahit,hi,0.932,Bollywood Dance
+Mood: euphoric,en,0.8,EDM
+really hyped,en,0.895,Techno
+Mood: composed,en,0.5,Pop
+muy deprimido,es,0.087,Flamenco
+muy deprimido,es,0.129,Flamenco
+bahut nirash,hi,0.048,Bollywood Sad
+Mood: dukhy,hi,0.2,Old Classics
+Mood: alegre,es,0.8,Reggaeton
+Mood: hyped,en,0.8,EDM
+bahut bechain,hi,0.037,Old Classics
+Mood: vibrant,en,0.8,Techno
+Main tanha hoon lekin mujhe khushi gaane sunne hain,hi,0.858,Bollywood Dance
+Mood: blessed,en,0.8,EDM
+muy enojado,es,0.104,Latin Rock
+really devastated,en,0.027,Emo
+Mood: normal,es,0.5,Merengue
+Mood: calmado,es,0.5,Latin Pop
+bahut kamal,hi,0.891,Bhangra
+Mood: khamosh,hi,0.5,Indie-Pop
+bahut tanha,hi,0.145,Bollywood Sad
+I am feeling heartbroken still I want unstoppable music,en,0.849,Techno
+Me siento frustrado aún así quiero música genial,es,0.914,Salsa
+muy feliz,es,0.884,Salsa
+Mood: gleeful,en,0.8,EDM
+Main udaas hoon lekin mujhe khushi gaane sunne hain,hi,0.916,Bollywood Dance
+Me siento solo aunque quiero música radiante,es,0.862,Reggaeton
+I am feeling empty yet I want blessed music,en,0.862,Techno
+Mood: khush,hi,0.8,Bhangra
+bahut udaas,hi,0.059,Bollywood Sad
+I am feeling empty but I want hyped music,en,0.799,Funk
+muy frustrado,es,0.042,Flamenco
+Mood: frustrado,es,0.2,Latin Rock
+Mood: fine,en,0.5,Pop
+Mood: deprimido,es,0.2,Flamenco
+Mood: bechain,hi,0.2,Old Classics
+Me siento harto aunque quiero música increíble,es,0.877,Salsa
+Me siento deprimido aún así quiero música alegre,es,0.881,Salsa
+really defeated,en,0.019,Emo
+I am feeling defeated however I want vibrant music,en,0.872,Techno
+muy genial,es,0.921,Salsa
+Main udaas hoon phir bhi mujhe kamal gaane sunne hain,hi,0.752,Indie-Pop
+Mood: frustrado,es,0.2,Flamenco
+Mood: bechain,hi,0.2,Bollywood Sad
+bahut tanha,hi,0.108,Bollywood Sad
+really empty,en,0.127,Grunge
+Main dukhy hoon phir bhi mujhe kamal gaane sunne hain,hi,0.762,Indie-Pop
+muy alegre,es,0.978,Salsa
+Me siento agotado aún así quiero música radiante,es,0.752,Merengue
+Mood: thik-thak,hi,0.5,Sufi
+really euphoric,en,0.955,Techno
+muy feliz,es,0.977,Salsa
+really shattered,en,0.049,Emo
+bahut pareshan,hi,0.057,Bollywood Sad
+really radiant,en,0.977,EDM
+Mood: harto,es,0.2,Latin Rock
+Main dukhy hoon lekin mujhe zindadil gaane sunne hain,hi,0.897,Bhangra
+really hyped,en,0.866,Techno
+really vibrant,en,0.901,Techno
+Main nirash hoon phir bhi mujhe shandaar gaane sunne hain,hi,0.937,Bhangra
+I am feeling weary however I want vibrant music,en,0.89,EDM
+Mood: emocionado,es,0.8,Salsa
+really blessed,en,0.924,Techno
+Mood: increíble,es,0.8,Salsa
+Mood: solo,es,0.2,Latin Rock
+Mood: enojado,es,0.2,Flamenco
+Mood: emocionado,es,0.8,Salsa
+Mood: weary,en,0.2,Emo
+Mood: ecstatic,en,0.8,EDM
+I am feeling heartbroken yet I want unstoppable music,en,0.81,Techno
+bahut nirash,hi,0.084,Old Classics
+Mood: euphoric,en,0.8,EDM
+really radiant,en,0.886,Techno
+bahut nirash,hi,0.073,Bollywood Sad
+bahut tanha,hi,0.082,Old Classics
+really blessed,en,0.906,EDM
+I am feeling shattered still I want blessed music,en,0.787,Pop
+I am feeling gloomy however I want hyped music,en,0.95,Techno
+Mood: ecstatic,en,0.8,Techno
+Main udaas hoon par mujhe anand gaane sunne hain,hi,0.848,Bhangra
+Me siento solo aún así quiero música entusiasmado,es,0.808,Salsa
+Mood: udaas,hi,0.2,Bollywood Sad
+I am feeling weary however I want gleeful music,en,0.869,Techno
+really defeated,en,0.147,Grunge
+bahut khush,hi,0.999,Bhangra
+Main thaka hoon magar mujhe utsahit gaane sunne hain,hi,0.898,Bhangra
+Mood: shattered,en,0.2,Grunge
+I am feeling weary however I want blessed music,en,0.778,Pop
+Me siento triste pero quiero música radiante,es,0.94,Salsa
+Mood: shandaar,hi,0.8,Bhangra
+bahut khushi,hi,0.937,Bollywood Dance
+bahut bechain,hi,0.06,Old Classics
+I am feeling shattered yet I want ecstatic music,en,0.753,Funk
+muy frustrado,es,0.071,Flamenco
+really empty,en,0.036,Emo
+Main tanha hoon lekin mujhe zindadil gaane sunne hain,hi,0.75,Sufi
+really unstoppable,en,0.953,Techno
+muy emocionado,es,0.972,Salsa
+Main thaka hoon magar mujhe anand gaane sunne hain,hi,0.886,Bollywood Dance
+muy frustrado,es,0.015,Flamenco
+bahut nirash,hi,0.054,Bollywood Sad
+muy increíble,es,0.932,Salsa
+I am feeling shattered however I want ecstatic music,en,0.759,Pop
+Mood: nirash,hi,0.2,Bollywood Sad
+bahut anand,hi,0.918,Bhangra
+Main dukhy hoon par mujhe khush gaane sunne hain,hi,0.824,Bollywood Dance
+really miserable,en,0.073,Grunge
+Mood: bechain,hi,0.2,Bollywood Sad
+Me siento solo aunque quiero música alegre,es,0.823,Salsa
+muy increíble,es,0.921,Salsa
+Mood: stable,en,0.5,Pop
+Mood: radiante,es,0.8,Salsa
+Me siento solo aún así quiero música genial,es,0.795,Latin Pop
+Mood: triste,es,0.2,Latin Rock
+Mood: solo,es,0.2,Latin Rock
+Main nirash hoon magar mujhe mast gaane sunne hain,hi,0.805,Bollywood Dance
+bahut shandaar,hi,0.997,Bhangra
+bahut bechain,hi,0.029,Bollywood Sad
+really heartbroken,en,0.062,Emo
+Mood: dukh,hi,0.2,Old Classics
+Me siento frustrado aún así quiero música increíble,es,0.872,Salsa
+Mood: solo,es,0.2,Flamenco
+I am feeling shattered yet I want blessed music,en,0.782,Pop
+really blessed,en,0.992,Techno
+Me siento solo sin embargo quiero música radiante,es,0.888,Reggaeton
+Me siento frustrado pero quiero música animado,es,0.949,Reggaeton
+Me siento deprimido aún así quiero música entusiasmado,es,0.891,Salsa
+Mood: nirash,hi,0.2,Bollywood Sad
+really weary,en,0.057,Emo
+Mood: anand,hi,0.8,Bollywood Dance
+Mood: anand,hi,0.8,Bollywood Dance
+Main dukhy hoon magar mujhe anand gaane sunne hain,hi,0.883,Bhangra
+I am feeling weary however I want euphoric music,en,0.933,Techno
+Mood: calmado,es,0.5,Merengue
+Main pareshan hoon phir bhi mujhe khush gaane sunne hain,hi,0.836,Bollywood Dance
+really blessed,en,0.978,EDM
+bahut pareshan,hi,0.016,Old Classics
+bahut dukhy,hi,0.045,Bollywood Sad
+Me siento triste aunque quiero música emocionado,es,0.774,Latin Pop
+Main dukh hoon par mujhe khushi gaane sunne hain,hi,0.891,Bhangra
+Main pareshan hoon lekin mujhe anand gaane sunne hain,hi,0.779,Sufi
+I am feeling gloomy however I want hyped music,en,0.831,Techno
+really ecstatic,en,0.921,EDM
+Mood: equilibrado,es,0.5,Latin Pop
+really ecstatic,en,0.936,Techno
+Me siento agotado aún así quiero música genial,es,0.83,Reggaeton
+Main nirash hoon lekin mujhe khush gaane sunne hain,hi,0.934,Bollywood Dance
+muy enojado,es,0.123,Latin Rock
+really heartbroken,en,0.048,Grunge
+really unstoppable,en,0.976,Techno
+bahut dukh,hi,0.046,Old Classics
+muy agotado,es,0.083,Flamenco
+really gleeful,en,0.89,EDM
+Mood: khushi,hi,0.8,Bhangra
+I am feeling shattered but I want radiant music,en,0.843,Techno
+Mood: thik-thak,hi,0.5,Indie-Pop
+really radiant,en,0.962,EDM
+Me siento deprimido aún así quiero música alegre,es,0.795,Latin Pop
+really empty,en,0.132,Emo
+I am feeling miserable but I want gleeful music,en,0.795,Funk
+I am feeling empty still I want euphoric music,en,0.934,Techno
+Me siento frustrado aunque quiero música emocionado,es,0.851,Reggaeton
+really heartbroken,en,0.044,Grunge
+Mood: bien,es,0.5,Latin Pop
+bahut anand,hi,0.899,Bollywood Dance
+really euphoric,en,0.864,EDM
+Me siento enojado aunque quiero música feliz,es,0.874,Salsa
+bahut shandaar,hi,0.999,Bollywood Dance
+Mood: chilled,en,0.5,Pop
+really devastated,en,0.104,Emo
+Me siento enojado aunque quiero música radiante,es,0.872,Reggaeton
+Me siento dolido aunque quiero música animado,es,0.822,Reggaeton
+muy radiante,es,0.88,Salsa
+really weary,en,0.126,Grunge
+muy agotado,es,0.132,Flamenco
+really heartbroken,en,0.015,Emo
+Main pareshan hoon lekin mujhe mast gaane sunne hain,hi,0.906,Bollywood Dance
+Mood: pareshan,hi,0.2,Old Classics
+Me siento deprimido pero quiero música increíble,es,0.898,Reggaeton
+Main udaas hoon par mujhe kamal gaane sunne hain,hi,0.757,Sufi
+muy alegre,es,0.853,Reggaeton
+really shattered,en,0.058,Grunge
+really blessed,en,0.907,EDM
+really euphoric,en,0.857,Techno
+Mood: khamosh,hi,0.5,Sufi
+Mood: triste,es,0.2,Latin Rock
+Me siento harto sin embargo quiero música alegre,es,0.845,Reggaeton
+Me siento dolido sin embargo quiero música emocionado,es,0.829,Salsa
+Mood: bechain,hi,0.2,Old Classics
+muy agotado,es,0.014,Flamenco
+Mood: animado,es,0.8,Salsa
+Main dukh hoon lekin mujhe shandaar gaane sunne hain,hi,0.786,Indie-Pop
+muy agotado,es,0.116,Latin Rock
+Main dukhy hoon lekin mujhe mast gaane sunne hain,hi,0.826,Bhangra
+muy deprimido,es,0.013,Flamenco
+Main tanha hoon magar mujhe khush gaane sunne hain,hi,0.856,Bollywood Dance
+bahut nirash,hi,0.04,Old Classics
+bahut tanha,hi,0.034,Bollywood Sad
+Me siento harto aún así quiero música alegre,es,0.845,Reggaeton
+Me siento dolido sin embargo quiero música radiante,es,0.938,Reggaeton
+Mood: radiante,es,0.8,Reggaeton
+Mood: fine,en,0.5,Pop
+muy harto,es,0.112,Flamenco
+really empty,en,0.055,Emo
+really unstoppable,en,0.873,Techno
+Mood: thaka,hi,0.2,Bollywood Sad
+Main thaka hoon par mujhe utsahit gaane sunne hain,hi,0.885,Bollywood Dance
+Mood: hyped,en,0.8,Techno
+Mood: miserable,en,0.2,Grunge
+Mood: euphoric,en,0.8,EDM
+I am feeling miserable yet I want gleeful music,en,0.907,Techno
+Me siento triste sin embargo quiero música radiante,es,0.881,Salsa
+muy deprimido,es,0.095,Latin Rock
+Me siento frustrado pero quiero música radiante,es,0.91,Reggaeton
+Mood: euphoric,en,0.8,EDM
+I am feeling defeated however I want euphoric music,en,0.751,Pop
+bahut dukh,hi,0.081,Bollywood Sad
+Main nirash hoon magar mujhe anand gaane sunne hain,hi,0.828,Bollywood Dance
+muy emocionado,es,0.881,Salsa
+Main pareshan hoon magar mujhe khushi gaane sunne hain,hi,0.764,Sufi
+I am feeling heartbroken still I want gleeful music,en,0.836,EDM
+Mood: ordinary,en,0.5,Pop
+muy entusiasmado,es,0.9,Reggaeton
+muy increíble,es,0.864,Reggaeton
+really ecstatic,en,0.886,EDM
+Mood: frustrado,es,0.2,Flamenco
+I am feeling gloomy however I want euphoric music,en,0.779,Pop
+bahut khush,hi,0.86,Bhangra
+really euphoric,en,0.916,EDM
+I am feeling devastated still I want gleeful music,en,0.903,Techno
+Mood: khushi,hi,0.8,Bollywood Dance
+I am feeling weary but I want euphoric music,en,0.908,EDM
+muy frustrado,es,0.06,Latin Rock
+Mood: frustrado,es,0.2,Flamenco
+bahut thaka,hi,0.052,Old Classics
+Mood: chilled,en,0.5,Funk
+really gleeful,en,0.878,Techno
+bahut kamal,hi,0.996,Bollywood Dance
+Mood: miserable,en,0.2,Emo
+Main thaka hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.886,Bhangra
+Main dukhy hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.807,Bollywood Dance
+bahut tanha,hi,0.005,Old Classics
+really heartbroken,en,0.065,Emo
+Mood: tranquilo,es,0.5,Latin Pop
+muy solo,es,0.092,Flamenco
+I am feeling shattered still I want radiant music,en,0.789,Pop
+really shattered,en,0.078,Grunge
+Mood: normal,es,0.5,Latin Pop
+Mood: emocionado,es,0.8,Salsa
+Mood: khushi,hi,0.8,Bhangra
+really unstoppable,en,0.92,EDM
+muy frustrado,es,0.133,Latin Rock
+Mood: entusiasmado,es,0.8,Reggaeton
+Main bechain hoon lekin mujhe khushi gaane sunne hain,hi,0.824,Bollywood Dance
+muy increíble,es,0.888,Reggaeton
+Mood: radiante,es,0.8,Reggaeton
+Me siento agotado aún así quiero música entusiasmado,es,0.795,Latin Pop
+I am feeling defeated yet I want ecstatic music,en,0.865,EDM
+Main udaas hoon magar mujhe zindadil gaane sunne hain,hi,0.851,Bhangra
+really shattered,en,0.091,Emo
+Mood: weary,en,0.2,Grunge
+really vibrant,en,0.971,Techno
+Mood: empty,en,0.2,Emo
+I am feeling heartbroken yet I want unstoppable music,en,0.935,EDM
+Main dukh hoon par mujhe zindadil gaane sunne hain,hi,0.8,Bhangra
+bahut tanha,hi,0.066,Old Classics
+Main tanha hoon par mujhe anand gaane sunne hain,hi,0.942,Bhangra
+really gleeful,en,0.936,Techno
+Mood: normal,es,0.5,Merengue
+muy solo,es,0.042,Latin Rock
+Mood: theek,hi,0.5,Indie-Pop
+bahut utsahit,hi,0.893,Bollywood Dance
+Mood: agotado,es,0.2,Flamenco
+I am feeling shattered yet I want hyped music,en,0.929,Techno
+Mood: miserable,en,0.2,Grunge
+Main nirash hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.772,Sufi
+bahut thaka,hi,0.123,Old Classics
+Me siento agotado aunque quiero música feliz,es,0.835,Salsa
+Main udaas hoon phir bhi mujhe anand gaane sunne hain,hi,0.753,Sufi
+Me siento triste aún así quiero música increíble,es,0.899,Salsa
+really vibrant,en,0.905,Techno
+Mood: increíble,es,0.8,Salsa
+Main tanha hoon par mujhe zindadil gaane sunne hain,hi,0.857,Bollywood Dance
+I am feeling heartbroken but I want vibrant music,en,0.81,Techno
+Mood: radiant,en,0.8,EDM
+Mood: normal,es,0.5,Merengue
+bahut khushi,hi,0.862,Bollywood Dance
+Mood: animado,es,0.8,Salsa
+Mood: shant,hi,0.5,Indie-Pop
+Mood: khushi,hi,0.8,Bollywood Dance
+really euphoric,en,0.9,EDM
+Mood: bechain,hi,0.2,Bollywood Sad
+Mood: genial,es,0.8,Salsa
+Mood: harto,es,0.2,Latin Rock
+I am feeling heartbroken however I want blessed music,en,0.757,Funk
+muy animado,es,0.906,Salsa
+bahut utsahit,hi,0.944,Bollywood Dance
+bahut mast,hi,0.877,Bhangra
+Me siento triste aún así quiero música emocionado,es,0.898,Reggaeton
+I am feeling miserable however I want hyped music,en,0.938,EDM
+Me siento harto aún así quiero música alegre,es,0.801,Salsa
+Main thaka hoon par mujhe khushi gaane sunne hain,hi,0.852,Bollywood Dance
+muy genial,es,0.976,Salsa
+bahut dukh,hi,0.105,Old Classics
+bahut mast,hi,0.857,Bollywood Dance
+Mood: zindadil,hi,0.8,Bhangra
+Mood: entusiasmado,es,0.8,Reggaeton
+Mood: ecstatic,en,0.8,EDM
+Mood: theek,hi,0.5,Sufi
+Me siento solo sin embargo quiero música increíble,es,0.859,Reggaeton
+Mood: solo,es,0.2,Latin Rock
+Main nirash hoon lekin mujhe utsahit gaane sunne hain,hi,0.885,Bhangra
+Me siento solo sin embargo quiero música radiante,es,0.879,Salsa
+Mood: agotado,es,0.2,Latin Rock
+Mood: khush,hi,0.8,Bhangra
+Main tanha hoon phir bhi mujhe khush gaane sunne hain,hi,0.859,Bhangra
+Main thaka hoon par mujhe utsahit gaane sunne hain,hi,0.878,Bollywood Dance
+really radiant,en,0.868,EDM
+Mood: miserable,en,0.2,Grunge
+muy emocionado,es,0.896,Reggaeton
+Mood: frustrado,es,0.2,Flamenco
+bahut mast,hi,0.997,Bhangra
+Me siento deprimido aunque quiero música emocionado,es,0.76,Latin Pop
+Me siento triste sin embargo quiero música increíble,es,0.947,Reggaeton
+Mood: dukhy,hi,0.2,Old Classics
+Mood: chilled,en,0.5,Pop
+Mood: triste,es,0.2,Flamenco
+bahut dukhy,hi,0.082,Bollywood Sad
+bahut khushi,hi,0.852,Bhangra
+Mood: defeated,en,0.2,Emo
+bahut khushi,hi,0.968,Bollywood Dance
+Mood: normal,es,0.5,Latin Pop
+Mood: weary,en,0.2,Grunge
+Mood: fine,en,0.5,Pop
+Me siento harto aún así quiero música radiante,es,0.872,Salsa
+really weary,en,0.041,Emo
+really euphoric,en,0.899,EDM
+bahut pareshan,hi,0.132,Old Classics
+Me siento dolido aún así quiero música radiante,es,0.797,Latin Pop
+Me siento harto sin embargo quiero música animado,es,0.784,Latin Pop
+Mood: miserable,en,0.2,Grunge
+bahut tanha,hi,0.119,Old Classics
+muy solo,es,0.044,Flamenco
+Me siento triste aún así quiero música emocionado,es,0.917,Reggaeton
+really empty,en,0.03,Grunge
+Me siento solo pero quiero música radiante,es,0.847,Salsa
+Me siento frustrado sin embargo quiero música emocionado,es,0.839,Salsa
+Me siento enojado pero quiero música animado,es,0.864,Salsa
+I am feeling defeated but I want vibrant music,en,0.782,Pop
+Mood: entusiasmado,es,0.8,Reggaeton
+Me siento harto aunque quiero música animado,es,0.902,Salsa
+Me siento agotado sin embargo quiero música entusiasmado,es,0.829,Salsa
+Mood: shandaar,hi,0.8,Bollywood Dance
+I am feeling gloomy yet I want radiant music,en,0.923,EDM
+Mood: khamosh,hi,0.5,Sufi
+bahut udaas,hi,0.088,Old Classics
+Mood: kamal,hi,0.8,Bhangra
+Mood: gleeful,en,0.8,Techno
+really hyped,en,0.902,Techno
+Main pareshan hoon lekin mujhe kamal gaane sunne hain,hi,0.852,Bollywood Dance
+Mood: ecstatic,en,0.8,EDM
+Main nirash hoon magar mujhe shandaar gaane sunne hain,hi,0.885,Bollywood Dance
+Mood: udaas,hi,0.2,Old Classics
+Mood: animado,es,0.8,Salsa
+bahut nirash,hi,0.011,Bollywood Sad
+Mood: theek,hi,0.5,Sufi
+muy enojado,es,0.065,Latin Rock
+muy increíble,es,0.896,Reggaeton
+Mood: khush,hi,0.8,Bhangra
+Mood: dolido,es,0.2,Flamenco
+Mood: composed,en,0.5,Funk
+Mood: bien,es,0.5,Merengue
+Main dukh hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.886,Bhangra
+I am feeling weary still I want unstoppable music,en,0.771,Funk
+bahut bechain,hi,0.051,Bollywood Sad
+really euphoric,en,0.901,Techno
+Me siento harto sin embargo quiero música entusiasmado,es,0.86,Salsa
+Mood: kamal,hi,0.8,Bollywood Dance
+Mood: entusiasmado,es,0.8,Reggaeton
+Me siento dolido aún así quiero música radiante,es,0.76,Latin Pop
+Mood: euphoric,en,0.8,Techno
+Main dukh hoon par mujhe utsahit gaane sunne hain,hi,0.8,Indie-Pop
+really blessed,en,0.906,Techno
+I am feeling empty however I want gleeful music,en,0.87,EDM
+muy radiante,es,0.921,Salsa
+muy harto,es,0.038,Flamenco
+bahut dukh,hi,0.03,Old Classics
+I am feeling gloomy yet I want hyped music,en,0.825,Techno
+really weary,en,0.088,Grunge
+Me siento triste pero quiero música radiante,es,0.798,Merengue
+Main udaas hoon par mujhe anand gaane sunne hain,hi,0.775,Sufi
+I am feeling defeated but I want unstoppable music,en,0.907,EDM
+I am feeling shattered yet I want gleeful music,en,0.848,Techno
+Me siento enojado pero quiero música animado,es,0.791,Merengue
+Me siento solo sin embargo quiero música emocionado,es,0.867,Salsa
+Mood: tranquilo,es,0.5,Merengue
+Mood: thaka,hi,0.2,Bollywood Sad
+bahut thaka,hi,0.056,Old Classics
+Mood: udaas,hi,0.2,Bollywood Sad
+really hyped,en,0.925,Techno
+really empty,en,0.098,Grunge
+Mood: feliz,es,0.8,Reggaeton
+Mood: frustrado,es,0.2,Flamenco
+Me siento frustrado aún así quiero música entusiasmado,es,0.921,Reggaeton
+Mood: miserable,en,0.2,Grunge
+really weary,en,0.146,Emo
+I am feeling heartbroken but I want vibrant music,en,0.904,EDM
+bahut udaas,hi,0.01,Old Classics
+Mood: dukhy,hi,0.2,Bollywood Sad
+Mood: chilled,en,0.5,Funk
+Me siento dolido pero quiero música animado,es,0.828,Reggaeton
+Main udaas hoon lekin mujhe shandaar gaane sunne hain,hi,0.76,Sufi
+Main dukhy hoon magar mujhe utsahit gaane sunne hain,hi,0.861,Bhangra
+I am feeling devastated however I want euphoric music,en,0.839,Techno
+I am feeling gloomy however I want ecstatic music,en,0.831,Techno
+Mood: fine,en,0.5,Pop
+muy triste,es,0.066,Flamenco
+bahut zindadil,hi,0.968,Bollywood Dance
+I am feeling miserable yet I want euphoric music,en,0.762,Funk
+muy solo,es,0.044,Flamenco
+really euphoric,en,0.878,Techno
+Me siento dolido aunque quiero música emocionado,es,0.944,Reggaeton
+Main nirash hoon par mujhe zindadil gaane sunne hain,hi,0.816,Bollywood Dance
+Me siento frustrado aunque quiero música animado,es,0.763,Latin Pop
+Mood: ordinary,en,0.5,Funk
+Mood: khushi,hi,0.8,Bhangra
+Mood: anand,hi,0.8,Bhangra
+really unstoppable,en,0.946,EDM
+Mood: triste,es,0.2,Latin Rock
+Main dukhy hoon phir bhi mujhe kamal gaane sunne hain,hi,0.797,Indie-Pop
+I am feeling empty yet I want unstoppable music,en,0.754,Pop
+really shattered,en,0.095,Grunge
+bahut utsahit,hi,0.905,Bollywood Dance
+Mood: weary,en,0.2,Grunge
+Mood: nirash,hi,0.2,Old Classics
+really defeated,en,0.013,Emo
+Main tanha hoon par mujhe kamal gaane sunne hain,hi,0.857,Bollywood Dance
+bahut udaas,hi,0.029,Old Classics
+Me siento frustrado sin embargo quiero música increíble,es,0.906,Salsa
+I am feeling miserable still I want blessed music,en,0.84,Techno
+Mood: khush,hi,0.8,Bhangra
+Main nirash hoon magar mujhe utsahit gaane sunne hain,hi,0.885,Bollywood Dance
+Mood: mellow,en,0.5,Pop
+Me siento dolido aunque quiero música radiante,es,0.949,Reggaeton
+Mood: ordinary,en,0.5,Funk
+Mood: chilled,en,0.5,Funk
+Mood: tranquilo,es,0.5,Merengue
+bahut tanha,hi,0.067,Bollywood Sad
+muy harto,es,0.115,Flamenco
+Mood: tanha,hi,0.2,Bollywood Sad
+Me siento enojado sin embargo quiero música radiante,es,0.916,Reggaeton
+Main dukh hoon par mujhe khushi gaane sunne hain,hi,0.781,Indie-Pop
+muy entusiasmado,es,0.949,Reggaeton
+I am feeling empty but I want radiant music,en,0.772,Funk
+Main tanha hoon lekin mujhe shandaar gaane sunne hain,hi,0.858,Bollywood Dance
+muy triste,es,0.117,Latin Rock
+Mood: solo,es,0.2,Flamenco
+muy feliz,es,0.976,Reggaeton
+Me siento deprimido sin embargo quiero música emocionado,es,0.752,Merengue
+Mood: shattered,en,0.2,Grunge
+really ecstatic,en,0.883,Techno
+Me siento enojado aunque quiero música animado,es,0.941,Reggaeton
+Mood: dolido,es,0.2,Flamenco
+I am feeling empty but I want euphoric music,en,0.758,Pop
+muy entusiasmado,es,0.928,Salsa
+really defeated,en,0.115,Grunge
+really vibrant,en,0.952,EDM
+Mood: alegre,es,0.8,Salsa
+Mood: deprimido,es,0.2,Flamenco
+I am feeling shattered but I want radiant music,en,0.824,EDM
+bahut bechain,hi,0.077,Old Classics
+Mood: thaka,hi,0.2,Old Classics
+Main tanha hoon lekin mujhe shandaar gaane sunne hain,hi,0.862,Bollywood Dance
+Mood: ecstatic,en,0.8,EDM
+Main thaka hoon lekin mujhe anand gaane sunne hain,hi,0.75,Sufi
+bahut bechain,hi,0.015,Bollywood Sad
+muy animado,es,0.972,Reggaeton
+Main nirash hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.771,Indie-Pop
+Mood: solo,es,0.2,Latin Rock
+Mood: radiant,en,0.8,EDM
+muy harto,es,0.13,Flamenco
+Me siento enojado aunque quiero música feliz,es,0.894,Salsa
+Main tanha hoon lekin mujhe anand gaane sunne hain,hi,0.851,Bollywood Dance
+muy increíble,es,0.857,Reggaeton
+Mood: bien,es,0.5,Latin Pop
+Mood: solo,es,0.2,Latin Rock
+Me siento harto sin embargo quiero música animado,es,0.83,Reggaeton
+muy harto,es,0.001,Latin Rock
+Main nirash hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.893,Bollywood Dance
+bahut bechain,hi,0.092,Bollywood Sad
+Mood: bien,es,0.5,Latin Pop
+really heartbroken,en,0.124,Grunge
+Mood: triste,es,0.2,Latin Rock
+Mood: tranquilo,es,0.5,Latin Pop
+muy alegre,es,0.935,Salsa
+Mood: heartbroken,en,0.2,Emo
+I am feeling devastated still I want radiant music,en,0.822,Techno
+really euphoric,en,0.915,EDM
+Main pareshan hoon lekin mujhe mast gaane sunne hain,hi,0.827,Bollywood Dance
+Main udaas hoon phir bhi mujhe kamal gaane sunne hain,hi,0.787,Sufi
+Mood: agotado,es,0.2,Latin Rock
+Mood: agotado,es,0.2,Latin Rock
+Main thaka hoon magar mujhe shandaar gaane sunne hain,hi,0.842,Bollywood Dance
+muy emocionado,es,0.921,Reggaeton
+I am feeling empty yet I want radiant music,en,0.836,Techno
+Mood: kamal,hi,0.8,Bollywood Dance
+Mood: agotado,es,0.2,Flamenco
+Mood: thaka,hi,0.2,Old Classics
+Me siento enojado pero quiero música entusiasmado,es,0.81,Reggaeton
+Mood: heartbroken,en,0.2,Grunge
+really euphoric,en,0.901,EDM
+really radiant,en,0.981,EDM
+I am feeling gloomy but I want blessed music,en,0.847,Techno
+really radiant,en,0.876,Techno
+Mood: heartbroken,en,0.2,Grunge
+muy harto,es,0.027,Flamenco
+Mood: animado,es,0.8,Salsa
+I am feeling weary still I want euphoric music,en,0.84,Techno
+bahut udaas,hi,0.117,Old Classics
+bahut kamal,hi,0.875,Bhangra
+muy triste,es,0.09,Flamenco
+I am feeling heartbroken still I want gleeful music,en,0.839,Techno
+Main thaka hoon magar mujhe zindadil gaane sunne hain,hi,0.898,Bollywood Dance
+Mood: tranquilo,es,0.5,Merengue
+really empty,en,0.142,Emo
+really gleeful,en,0.875,EDM
+Main nirash hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.785,Sufi
+bahut thaka,hi,0.149,Bollywood Sad
+bahut udaas,hi,0.007,Old Classics
+Me siento deprimido aunque quiero música feliz,es,0.931,Reggaeton
+I am feeling heartbroken yet I want blessed music,en,0.881,EDM
+Main nirash hoon magar mujhe khushi gaane sunne hain,hi,0.867,Bhangra
+Mood: alegre,es,0.8,Salsa
+Mood: theek,hi,0.5,Indie-Pop
+really heartbroken,en,0.045,Emo
+really empty,en,0.036,Emo
+Main dukhy hoon lekin mujhe zindadil gaane sunne hain,hi,0.894,Bollywood Dance
+Me siento solo aún así quiero música alegre,es,0.879,Salsa
+Main dukh hoon phir bhi mujhe utsahit gaane sunne hain,hi,0.784,Sufi
+bahut khushi,hi,0.877,Bhangra
+Main thaka hoon magar mujhe anand gaane sunne hain,hi,0.867,Bollywood Dance
+Mood: blessed,en,0.8,EDM
+Main dukhy hoon par mujhe utsahit gaane sunne hain,hi,0.931,Bollywood Dance
+muy feliz,es,0.992,Reggaeton
+bahut dukh,hi,0.056,Bollywood Sad
+really heartbroken,en,0.143,Emo
+really blessed,en,0.992,EDM
+really devastated,en,0.051,Emo
+Me siento agotado sin embargo quiero música entusiasmado,es,0.925,Reggaeton
+muy harto,es,0.084,Latin Rock
+Mood: shandaar,hi,0.8,Bhangra
+Main nirash hoon lekin mujhe shandaar gaane sunne hain,hi,0.932,Bhangra
+bahut shandaar,hi,0.961,Bhangra
+I am feeling miserable still I want unstoppable music,en,0.865,Techno
+Mood: pareshan,hi,0.2,Old Classics
+Mood: genial,es,0.8,Reggaeton
+Mood: dukhy,hi,0.2,Bollywood Sad
+Mood: agotado,es,0.2,Latin Rock
+Main bechain hoon lekin mujhe khush gaane sunne hain,hi,0.827,Bhangra
+Me siento agotado aunque quiero música alegre,es,0.945,Reggaeton
+Mood: pareshan,hi,0.2,Old Classics
+Mood: agotado,es,0.2,Flamenco
+Mood: genial,es,0.8,Reggaeton
+Mood: deprimido,es,0.2,Latin Rock
+Mood: khush,hi,0.8,Bollywood Dance
+Mood: euphoric,en,0.8,Techno
+Mood: agotado,es,0.2,Latin Rock
+bahut dukh,hi,0.1,Old Classics
+Me siento solo aún así quiero música radiante,es,0.926,Salsa
+bahut kamal,hi,0.975,Bhangra
+Main udaas hoon phir bhi mujhe mast gaane sunne hain,hi,0.92,Bollywood Dance
+really empty,en,0.034,Emo
+really blessed,en,0.972,EDM
+Me siento harto sin embargo quiero música emocionado,es,0.848,Reggaeton
+I am feeling defeated however I want euphoric music,en,0.757,Pop
+Mood: radiant,en,0.8,Techno
+Me siento triste aún así quiero música increíble,es,0.781,Merengue
+Main pareshan hoon magar mujhe mast gaane sunne hain,hi,0.767,Indie-Pop
+Mood: calmado,es,0.5,Merengue
+muy genial,es,0.957,Salsa
+Mood: udaas,hi,0.2,Old Classics
+muy entusiasmado,es,0.954,Salsa
+muy entusiasmado,es,0.882,Reggaeton
+Mood: utsahit,hi,0.8,Bhangra
+I am feeling shattered still I want radiant music,en,0.887,Techno
+muy enojado,es,0.119,Flamenco
+muy triste,es,0.076,Flamenco
+really radiant,en,0.862,EDM
+muy radiante,es,0.952,Reggaeton
+Me siento agotado sin embargo quiero música entusiasmado,es,0.896,Salsa
+Mood: vibrant,en,0.8,EDM
+really weary,en,0.082,Grunge
+muy animado,es,0.892,Reggaeton
+Mood: composed,en,0.5,Pop
+muy increíble,es,0.92,Reggaeton
+Mood: tanha,hi,0.2,Bollywood Sad
+really ecstatic,en,0.95,Techno
+Main dukhy hoon par mujhe kamal gaane sunne hain,hi,0.822,Bollywood Dance
+Mood: bien,es,0.5,Latin Pop
+bahut dukh,hi,0.031,Bollywood Sad
+Me siento agotado aún así quiero música feliz,es,0.843,Salsa
+muy harto,es,0.074,Latin Rock
+really vibrant,en,0.89,EDM
+Mood: gleeful,en,0.8,Techno
+Mood: shant,hi,0.5,Indie-Pop
+really empty,en,0.13,Grunge
+Main thaka hoon magar mujhe khushi gaane sunne hain,hi,0.848,Bollywood Dance
+Me siento frustrado aunque quiero música animado,es,0.797,Latin Pop
+really blessed,en,0.976,EDM
+muy radiante,es,0.895,Reggaeton
+Me siento triste aún así quiero música feliz,es,0.769,Merengue
+Mood: khamosh,hi,0.5,Sufi
+muy emocionado,es,0.937,Salsa
+Me siento deprimido sin embargo quiero música increíble,es,0.826,Salsa
+Me siento enojado pero quiero música alegre,es,0.821,Reggaeton
+muy dolido,es,0.055,Flamenco
+I am feeling empty however I want ecstatic music,en,0.788,Pop
+Mood: pareshan,hi,0.2,Bollywood Sad
+Mood: devastated,en,0.2,Emo
+I am feeling defeated but I want gleeful music,en,0.93,Techno
+bahut shandaar,hi,0.911,Bhangra
+bahut dukhy,hi,0.007,Bollywood Sad
+Mood: mast,hi,0.8,Bollywood Dance
+really defeated,en,0.059,Grunge
+bahut dukh,hi,0.137,Bollywood Sad
+muy animado,es,0.871,Salsa
+muy harto,es,0.113,Flamenco
+Mood: increíble,es,0.8,Reggaeton
+really weary,en,0.053,Emo
+I am feeling shattered still I want gleeful music,en,0.925,EDM
+muy agotado,es,0.017,Latin Rock
+Mood: kamal,hi,0.8,Bhangra
+Mood: anand,hi,0.8,Bhangra
+muy increíble,es,0.869,Reggaeton
+muy frustrado,es,0.1,Flamenco
+Me siento enojado aunque quiero música genial,es,0.875,Salsa
+Mood: enojado,es,0.2,Latin Rock
+Mood: tranquilo,es,0.5,Latin Pop
+muy alegre,es,0.946,Reggaeton
+Main bechain hoon lekin mujhe zindadil gaane sunne hain,hi,0.914,Bhangra
+bahut udaas,hi,0.063,Old Classics
+really gleeful,en,0.852,Techno
+Mood: alegre,es,0.8,Reggaeton
+Mood: calmado,es,0.5,Merengue
+I am feeling heartbroken but I want unstoppable music,en,0.807,EDM
+Mood: tanha,hi,0.2,Old Classics
+Me siento deprimido pero quiero música genial,es,0.758,Merengue
+Main udaas hoon magar mujhe khushi gaane sunne hain,hi,0.841,Bhangra
+Me siento harto aún así quiero música entusiasmado,es,0.834,Salsa
+Main tanha hoon lekin mujhe zindadil gaane sunne hain,hi,0.847,Bollywood Dance
+Mood: kamal,hi,0.8,Bollywood Dance
+I am feeling shattered still I want vibrant music,en,0.791,Funk
+really miserable,en,0.042,Emo
+Mood: dolido,es,0.2,Flamenco
+bahut kamal,hi,0.971,Bhangra
+bahut khush,hi,0.931,Bhangra
+Mood: harto,es,0.2,Latin Rock
+Main nirash hoon phir bhi mujhe utsahit gaane sunne hain,hi,0.879,Bollywood Dance
+I am feeling defeated however I want unstoppable music,en,0.808,Techno
+Main dukhy hoon phir bhi mujhe khushi gaane sunne hain,hi,0.834,Bhangra
+I am feeling shattered yet I want radiant music,en,0.804,Techno
+Mood: stable,en,0.5,Pop
+bahut zindadil,hi,0.871,Bhangra
+I am feeling weary but I want gleeful music,en,0.826,Techno
+Me siento agotado aunque quiero música radiante,es,0.839,Salsa
+Mood: tranquilo,es,0.5,Merengue
+Me siento solo sin embargo quiero música emocionado,es,0.935,Reggaeton
+Main dukhy hoon phir bhi mujhe khushi gaane sunne hain,hi,0.762,Sufi
+I am feeling devastated yet I want vibrant music,en,0.855,EDM
+Main bechain hoon lekin mujhe zindadil gaane sunne hain,hi,0.863,Bhangra
+muy harto,es,0.106,Flamenco
+Mood: devastated,en,0.2,Grunge
+muy frustrado,es,0.083,Flamenco
+Me siento solo pero quiero música animado,es,0.933,Reggaeton
+I am feeling weary still I want radiant music,en,0.89,EDM
+Me siento agotado sin embargo quiero música feliz,es,0.873,Reggaeton
+Mood: kamal,hi,0.8,Bhangra
+Me siento deprimido aunque quiero música radiante,es,0.872,Salsa
+Me siento harto aún así quiero música animado,es,0.854,Reggaeton
+Mood: nirash,hi,0.2,Old Classics
+Main thaka hoon magar mujhe utsahit gaane sunne hain,hi,0.822,Bollywood Dance
+bahut khushi,hi,0.985,Bollywood Dance
+really ecstatic,en,0.86,Techno
+Me siento triste sin embargo quiero música alegre,es,0.817,Reggaeton
+Mood: feliz,es,0.8,Salsa
+Mood: tanha,hi,0.2,Bollywood Sad
+Me siento dolido pero quiero música alegre,es,0.932,Reggaeton
+bahut dukh,hi,0.004,Bollywood Sad
+Mood: bien,es,0.5,Merengue
+muy deprimido,es,0.105,Flamenco
+I am feeling devastated yet I want vibrant music,en,0.792,Funk
+bahut shandaar,hi,0.859,Bollywood Dance
+Mood: emocionado,es,0.8,Reggaeton
+Mood: ecstatic,en,0.8,Techno
+really defeated,en,0.04,Emo
+Mood: nirash,hi,0.2,Old Classics
+Me siento deprimido aunque quiero música animado,es,0.797,Latin Pop
+Me siento dolido pero quiero música increíble,es,0.861,Salsa
+really miserable,en,0.122,Grunge
+really devastated,en,0.086,Grunge
+bahut nirash,hi,0.094,Bollywood Sad
+really empty,en,0.107,Emo
+Main nirash hoon magar mujhe khush gaane sunne hain,hi,0.823,Bollywood Dance
+really radiant,en,0.983,EDM
+really miserable,en,0.145,Grunge
+Main nirash hoon lekin mujhe anand gaane sunne hain,hi,0.77,Indie-Pop
+Me siento enojado pero quiero música animado,es,0.766,Latin Pop
+Me siento agotado sin embargo quiero música emocionado,es,0.858,Salsa
+Mood: zindadil,hi,0.8,Bollywood Dance
+Mood: normal,es,0.5,Latin Pop
+Mood: equilibrado,es,0.5,Merengue
+I am feeling shattered still I want unstoppable music,en,0.784,Pop
+Main pareshan hoon par mujhe mast gaane sunne hain,hi,0.862,Bollywood Dance
+Mood: devastated,en,0.2,Emo
+Me siento dolido sin embargo quiero música increíble,es,0.845,Salsa
+Main udaas hoon par mujhe anand gaane sunne hain,hi,0.854,Bhangra
+Me siento frustrado aún así quiero música radiante,es,0.864,Salsa
+Mood: ordinary,en,0.5,Funk
+I am feeling defeated still I want ecstatic music,en,0.779,Funk
+Me siento dolido aún así quiero música radiante,es,0.9,Salsa
+Main thaka hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.908,Bollywood Dance
+muy genial,es,0.988,Salsa
+Main pareshan hoon lekin mujhe utsahit gaane sunne hain,hi,0.815,Bhangra
+Mood: kamal,hi,0.8,Bhangra
+Me siento frustrado aún así quiero música feliz,es,0.837,Reggaeton
+bahut dukhy,hi,0.129,Bollywood Sad
+Mood: shant,hi,0.5,Indie-Pop
+really defeated,en,0.098,Emo
+Me siento deprimido sin embargo quiero música animado,es,0.934,Salsa
+Mood: composed,en,0.5,Pop
+Mood: deprimido,es,0.2,Latin Rock
+muy radiante,es,0.867,Reggaeton
+Mood: theek,hi,0.5,Sufi
+Main thaka hoon par mujhe kamal gaane sunne hain,hi,0.873,Bhangra
+Mood: khushi,hi,0.8,Bollywood Dance
+bahut kamal,hi,0.919,Bhangra
+really weary,en,0.111,Emo
+really miserable,en,0.099,Grunge
+really radiant,en,0.98,Techno
+I am feeling miserable however I want gleeful music,en,0.93,Techno
+really empty,en,0.135,Emo
+Main thaka hoon par mujhe anand gaane sunne hain,hi,0.821,Bhangra
+Mood: weary,en,0.2,Emo
+Mood: entusiasmado,es,0.8,Salsa
+I am feeling heartbroken still I want hyped music,en,0.905,Techno
+bahut dukh,hi,0.114,Bollywood Sad
+really radiant,en,0.988,Techno
+Main nirash hoon par mujhe kamal gaane sunne hain,hi,0.851,Bhangra
+I am feeling devastated still I want ecstatic music,en,0.829,EDM
+muy emocionado,es,0.9,Salsa
+really gloomy,en,0.041,Grunge
+muy emocionado,es,0.852,Salsa
+Mood: alegre,es,0.8,Reggaeton
+Mood: utsahit,hi,0.8,Bollywood Dance
+really radiant,en,0.998,EDM
+Mood: hyped,en,0.8,EDM
+Mood: shant,hi,0.5,Indie-Pop
+I am feeling empty but I want ecstatic music,en,0.81,Techno
+really hyped,en,0.968,EDM
+muy agotado,es,0.12,Latin Rock
+bahut shandaar,hi,0.93,Bhangra
+Mood: gloomy,en,0.2,Emo
+bahut pareshan,hi,0.073,Bollywood Sad
+really shattered,en,0.123,Grunge
+Mood: nirash,hi,0.2,Old Classics
+Mood: fine,en,0.5,Pop
+Mood: gloomy,en,0.2,Emo
+Mood: khushi,hi,0.8,Bhangra
+Mood: pareshan,hi,0.2,Old Classics
+Mood: triste,es,0.2,Flamenco
+I am feeling defeated still I want blessed music,en,0.827,EDM
+really radiant,en,0.853,Techno
+Me siento solo aún así quiero música entusiasmado,es,0.761,Latin Pop
+I am feeling defeated still I want blessed music,en,0.865,EDM
+Main dukhy hoon phir bhi mujhe shandaar gaane sunne hain,hi,0.824,Bollywood Dance
+Mood: khamosh,hi,0.5,Indie-Pop
+I am feeling empty yet I want radiant music,en,0.903,Techno
+really radiant,en,0.893,Techno
+really devastated,en,0.059,Emo
+Me siento harto aunque quiero música radiante,es,0.807,Reggaeton
+muy harto,es,0.023,Latin Rock
+Mood: zindadil,hi,0.8,Bhangra
+Me siento triste sin embargo quiero música emocionado,es,0.771,Merengue
+Mood: increíble,es,0.8,Salsa
+Mood: feliz,es,0.8,Salsa
+Main dukh hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.9,Bollywood Dance
+Main dukh hoon phir bhi mujhe mast gaane sunne hain,hi,0.928,Bollywood Dance
+muy genial,es,0.885,Reggaeton
+Mood: miserable,en,0.2,Emo
+muy genial,es,0.979,Salsa
+Me siento agotado aún así quiero música increíble,es,0.828,Reggaeton
+bahut bechain,hi,0.041,Bollywood Sad
+bahut zindadil,hi,0.895,Bhangra
+really weary,en,0.048,Emo
+bahut pareshan,hi,0.128,Old Classics
+Mood: enojado,es,0.2,Latin Rock
+Mood: shant,hi,0.5,Sufi
+Mood: feliz,es,0.8,Salsa
+really vibrant,en,0.916,EDM
+really ecstatic,en,0.977,EDM
+Mood: zindadil,hi,0.8,Bollywood Dance
+Mood: zindadil,hi,0.8,Bhangra
+Mood: emocionado,es,0.8,Reggaeton
+Mood: pareshan,hi,0.2,Bollywood Sad
+really devastated,en,0.046,Grunge
+I am feeling devastated yet I want ecstatic music,en,0.84,EDM
+bahut khushi,hi,0.981,Bollywood Dance
+Main nirash hoon phir bhi mujhe khush gaane sunne hain,hi,0.837,Bhangra
+I am feeling defeated but I want blessed music,en,0.879,EDM
+Me siento enojado aún así quiero música animado,es,0.869,Salsa
+Me siento triste sin embargo quiero música genial,es,0.816,Salsa
+bahut khush,hi,0.875,Bollywood Dance
+really radiant,en,0.955,Techno
+Me siento enojado aún así quiero música alegre,es,0.771,Latin Pop
+really radiant,en,0.972,EDM
+Mood: entusiasmado,es,0.8,Salsa
+bahut anand,hi,0.986,Bollywood Dance
+Mood: stable,en,0.5,Pop
+Main thaka hoon par mujhe anand gaane sunne hain,hi,0.895,Bhangra
+Mood: shattered,en,0.2,Grunge
+Me siento frustrado aún así quiero música entusiasmado,es,0.768,Merengue
+I am feeling weary yet I want unstoppable music,en,0.908,Techno
+bahut kamal,hi,0.95,Bhangra
+I am feeling heartbroken still I want gleeful music,en,0.914,Techno
+Mood: khush,hi,0.8,Bhangra
+Mood: alegre,es,0.8,Reggaeton
+I am feeling gloomy yet I want gleeful music,en,0.756,Pop
+Mood: feliz,es,0.8,Salsa
+muy frustrado,es,0.136,Flamenco
+Mood: feliz,es,0.8,Reggaeton
+I am feeling miserable still I want gleeful music,en,0.759,Pop
+really euphoric,en,0.981,EDM
+Mood: feliz,es,0.8,Salsa
+really empty,en,0.069,Grunge
+Me siento frustrado pero quiero música alegre,es,0.793,Merengue
+Main pareshan hoon phir bhi mujhe shandaar gaane sunne hain,hi,0.773,Indie-Pop
+Me siento deprimido sin embargo quiero música entusiasmado,es,0.868,Reggaeton
+muy deprimido,es,0.002,Flamenco
+Mood: kamal,hi,0.8,Bollywood Dance
+bahut mast,hi,0.934,Bollywood Dance
+I am feeling heartbroken however I want radiant music,en,0.828,EDM
+Main bechain hoon lekin mujhe zindadil gaane sunne hain,hi,0.822,Bhangra
+I am feeling devastated but I want radiant music,en,0.84,Techno
+Main nirash hoon lekin mujhe khushi gaane sunne hain,hi,0.813,Bhangra
+muy radiante,es,0.952,Reggaeton
+Mood: khush,hi,0.8,Bhangra
+Main bechain hoon par mujhe utsahit gaane sunne hain,hi,0.9,Bhangra
+really weary,en,0.079,Emo
+Mood: blessed,en,0.8,Techno
+I am feeling weary yet I want radiant music,en,0.928,EDM
+really gloomy,en,0.136,Grunge
+really shattered,en,0.118,Grunge
+bahut kamal,hi,0.891,Bollywood Dance
+Mood: genial,es,0.8,Reggaeton
+muy emocionado,es,0.881,Reggaeton
+Me siento dolido pero quiero música increíble,es,0.785,Latin Pop
+bahut khushi,hi,0.944,Bollywood Dance
+really miserable,en,0.131,Grunge
+bahut shandaar,hi,0.95,Bhangra
+Mood: mellow,en,0.5,Pop
+Main pareshan hoon phir bhi mujhe mast gaane sunne hain,hi,0.762,Indie-Pop
+I am feeling defeated still I want radiant music,en,0.915,Techno
+muy harto,es,0.011,Flamenco
+Mood: equilibrado,es,0.5,Merengue
+Me siento frustrado aunque quiero música animado,es,0.77,Merengue
+Mood: euphoric,en,0.8,EDM
+really heartbroken,en,0.01,Emo
+really vibrant,en,0.853,Techno
+Mood: defeated,en,0.2,Emo
+really gleeful,en,0.881,Techno
+I am feeling weary yet I want radiant music,en,0.932,Techno
+Main dukh hoon phir bhi mujhe kamal gaane sunne hain,hi,0.856,Bhangra
+Mood: radiante,es,0.8,Reggaeton
+Mood: hyped,en,0.8,Techno
+Me siento triste pero quiero música feliz,es,0.849,Salsa
+muy radiante,es,0.891,Salsa
+Mood: shandaar,hi,0.8,Bhangra
+bahut nirash,hi,0.027,Bollywood Sad
+really gleeful,en,0.926,EDM
+muy increíble,es,0.986,Reggaeton
+Me siento triste pero quiero música emocionado,es,0.86,Reggaeton
+I am feeling devastated however I want radiant music,en,0.806,EDM
+bahut zindadil,hi,0.895,Bhangra
+Main thaka hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.779,Sufi
+Mood: detached,en,0.5,Funk
+muy enojado,es,0.062,Latin Rock
+Mood: kamal,hi,0.8,Bhangra
+Mood: triste,es,0.2,Latin Rock
+muy genial,es,0.879,Salsa
+I am feeling heartbroken however I want radiant music,en,0.916,EDM
+Mood: gloomy,en,0.2,Emo
+I am feeling empty still I want euphoric music,en,0.778,Pop
+I am feeling gloomy yet I want gleeful music,en,0.886,EDM
+Mood: dolido,es,0.2,Latin Rock
+bahut zindadil,hi,0.853,Bollywood Dance
+Me siento triste sin embargo quiero música genial,es,0.851,Reggaeton
+I am feeling miserable yet I want gleeful music,en,0.94,EDM
+bahut kamal,hi,0.924,Bollywood Dance
+Mood: bechain,hi,0.2,Old Classics
+Me siento triste aún así quiero música entusiasmado,es,0.83,Reggaeton
+really weary,en,0.031,Emo
+Mood: solo,es,0.2,Latin Rock
+really heartbroken,en,0.086,Emo
+Mood: pareshan,hi,0.2,Old Classics
+Mood: dukhy,hi,0.2,Old Classics
+Mood: shant,hi,0.5,Indie-Pop
+really shattered,en,0.025,Emo
+Main thaka hoon phir bhi mujhe mast gaane sunne hain,hi,0.919,Bhangra
+bahut udaas,hi,0.137,Bollywood Sad
+Mood: dukh,hi,0.2,Bollywood Sad
+really empty,en,0.074,Grunge
+Mood: vibrant,en,0.8,Techno
+muy emocionado,es,0.88,Reggaeton
+Main tanha hoon par mujhe anand gaane sunne hain,hi,0.849,Bhangra
+really unstoppable,en,0.998,Techno
+bahut mast,hi,0.87,Bollywood Dance
+I am feeling heartbroken however I want radiant music,en,0.867,EDM
+really euphoric,en,0.891,Techno
+Main nirash hoon par mujhe utsahit gaane sunne hain,hi,0.904,Bhangra
+Mood: thik-thak,hi,0.5,Indie-Pop
+really shattered,en,0.119,Grunge
+Main udaas hoon lekin mujhe kamal gaane sunne hain,hi,0.79,Sufi
+really radiant,en,0.858,EDM
+Main udaas hoon phir bhi mujhe zindadil gaane sunne hain,hi,0.851,Bhangra
+Mood: ecstatic,en,0.8,EDM
+muy feliz,es,0.939,Reggaeton
+Mood: ordinary,en,0.5,Pop
+Mood: radiant,en,0.8,Techno
+muy harto,es,0.12,Latin Rock
+muy animado,es,0.965,Salsa
+muy emocionado,es,0.955,Reggaeton
+I am feeling devastated still I want vibrant music,en,0.899,EDM
+really empty,en,0.07,Emo
+muy frustrado,es,0.05,Flamenco
+bahut bechain,hi,0.007,Old Classics
+Mood: radiant,en,0.8,EDM
+Mood: miserable,en,0.2,Emo
+really empty,en,0.022,Grunge
+Mood: zindadil,hi,0.8,Bollywood Dance
+Mood: zindadil,hi,0.8,Bollywood Dance
+Me siento agotado sin embargo quiero música genial,es,0.848,Reggaeton
+Mood: equilibrado,es,0.5,Latin Pop
+Mood: khamosh,hi,0.5,Sufi
+really hyped,en,0.951,Techno
+Mood: genial,es,0.8,Salsa
+I am feeling devastated however I want unstoppable music,en,0.806,Techno
+Me siento frustrado aunque quiero música animado,es,0.937,Reggaeton
+Me siento triste aunque quiero música genial,es,0.852,Reggaeton
+Mood: euphoric,en,0.8,Techno
+Me siento agotado aún así quiero música genial,es,0.769,Latin Pop
+Main tanha hoon lekin mujhe mast gaane sunne hain,hi,0.761,Indie-Pop
+bahut udaas,hi,0.078,Bollywood Sad
+Main bechain hoon par mujhe kamal gaane sunne hain,hi,0.783,Sufi
+muy frustrado,es,0.127,Flamenco
+bahut dukh,hi,0.078,Bollywood Sad
+Main nirash hoon lekin mujhe zindadil gaane sunne hain,hi,0.83,Bollywood Dance
+bahut shandaar,hi,0.945,Bhangra
+bahut shandaar,hi,0.985,Bhangra
+Mood: detached,en,0.5,Funk
+I am feeling heartbroken however I want hyped music,en,0.933,Techno
+Mood: harto,es,0.2,Flamenco
+bahut tanha,hi,0.07,Bollywood Sad
+really ecstatic,en,0.913,EDM
+Main udaas hoon phir bhi mujhe kamal gaane sunne hain,hi,0.814,Bollywood Dance
+really vibrant,en,0.886,Techno
+bahut udaas,hi,0.14,Bollywood Sad
+Me siento agotado pero quiero música emocionado,es,0.77,Merengue
+Main dukh hoon phir bhi mujhe khushi gaane sunne hain,hi,0.783,Indie-Pop
+I am feeling devastated still I want radiant music,en,0.867,Techno
+Mood: nirash,hi,0.2,Old Classics
+Mood: composed,en,0.5,Pop
+Mood: harto,es,0.2,Latin Rock
+really hyped,en,0.995,EDM
+Mood: animado,es,0.8,Salsa
+Mood: khush,hi,0.8,Bhangra
+Me siento harto pero quiero música entusiasmado,es,0.935,Salsa
+Mood: harto,es,0.2,Latin Rock
+Mood: defeated,en,0.2,Grunge
+Mood: blessed,en,0.8,EDM
+Mood: radiante,es,0.8,Reggaeton
+really weary,en,0.055,Emo
+Me siento deprimido pero quiero música increíble,es,0.875,Salsa
+Main pareshan hoon phir bhi mujhe kamal gaane sunne hain,hi,0.904,Bollywood Dance
+Mood: thaka,hi,0.2,Old Classics
+Me siento triste pero quiero música genial,es,0.798,Latin Pop
+Me siento agotado aún así quiero música emocionado,es,0.904,Reggaeton
+bahut dukh,hi,0.045,Bollywood Sad
+Main tanha hoon phir bhi mujhe khush gaane sunne hain,hi,0.868,Bollywood Dance
+Main dukh hoon magar mujhe khushi gaane sunne hain,hi,0.833,Bhangra
+Mood: thik-thak,hi,0.5,Sufi
+Me siento solo aunque quiero música emocionado,es,0.791,Merengue
+really gleeful,en,0.854,EDM
+Main udaas hoon lekin mujhe utsahit gaane sunne hain,hi,0.757,Sufi
+muy frustrado,es,0.148,Latin Rock
+Me siento harto sin embargo quiero música radiante,es,0.792,Latin Pop
+Mood: ecstatic,en,0.8,EDM
+muy increíble,es,0.994,Salsa
+really unstoppable,en,0.961,EDM
+muy animado,es,0.862,Salsa
+I am feeling shattered yet I want blessed music,en,0.899,Techno
+Mood: khamosh,hi,0.5,Indie-Pop
+Mood: agotado,es,0.2,Flamenco
+Main thaka hoon par mujhe utsahit gaane sunne hain,hi,0.897,Bollywood Dance
+I am feeling miserable however I want unstoppable music,en,0.909,EDM
+I am feeling gloomy still I want unstoppable music,en,0.943,EDM
+Mood: detached,en,0.5,Funk
+really unstoppable,en,0.965,EDM
+Mood: alegre,es,0.8,Reggaeton
+Me siento agotado aún así quiero música animado,es,0.884,Salsa
+I am feeling miserable however I want radiant music,en,0.795,Funk
+Mood: detached,en,0.5,Funk
+Mood: empty,en,0.2,Grunge
+Mood: harto,es,0.2,Latin Rock
+Me siento agotado pero quiero música radiante,es,0.842,Reggaeton
+I am feeling weary yet I want radiant music,en,0.808,EDM
+Mood: thik-thak,hi,0.5,Sufi
+Mood: devastated,en,0.2,Emo
+muy harto,es,0.126,Flamenco
+really radiant,en,0.965,EDM
+bahut kamal,hi,0.914,Bhangra
+Mood: shandaar,hi,0.8,Bollywood Dance
+I am feeling gloomy but I want ecstatic music,en,0.879,Techno
+Main udaas hoon phir bhi mujhe utsahit gaane sunne hain,hi,0.772,Indie-Pop
+really euphoric,en,0.986,Techno
+bahut anand,hi,0.917,Bollywood Dance
+Mood: empty,en,0.2,Grunge
+Mood: radiante,es,0.8,Salsa
+Mood: zindadil,hi,0.8,Bollywood Dance
+I am feeling gloomy but I want unstoppable music,en,0.931,EDM
+bahut dukhy,hi,0.146,Old Classics
+Main udaas hoon phir bhi mujhe khush gaane sunne hain,hi,0.757,Indie-Pop
+muy dolido,es,0.035,Flamenco
+I am feeling defeated yet I want unstoppable music,en,0.894,EDM
+Me siento frustrado pero quiero música alegre,es,0.838,Salsa
+really vibrant,en,0.979,EDM
+really gleeful,en,0.992,Techno
+Me siento agotado aunque quiero música radiante,es,0.816,Reggaeton
+bahut dukh,hi,0.061,Old Classics
+Mood: defeated,en,0.2,Grunge
