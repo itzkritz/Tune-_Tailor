@@ -27,7 +27,7 @@ export default function Dashboard() {
 
     try {
       // Call our Custom ML Model Node.js Backend
-      const response = await axios.post('/api/recommendations/text', { text });
+      const response = await axios.post('http://localhost:5000/api/recommendations/text', { text });
       
       const newCard = {
         mood: response.data.mood, 
